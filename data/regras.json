@@ -1,0 +1,48 @@
+{
+    "regras": [
+        {
+            "termo": "TARIFA BANCARIA",
+            "conta": "41101"
+        },
+        {
+            "termo": "TAR MANUT CONTA",
+            "conta": "41101"
+        },
+        {
+            "termo": "PAGTO ENEL",
+            "conta": "31201"
+        },
+        {
+            "termo": "PAGTO LIGHT",
+            "conta": "31201"
+        },
+        {
+            "termo": "SABESP",
+            "conta": "31202"
+        },
+        {
+            "termo": "DARF SIMPLES",
+            "conta": "21105"
+        },
+        {
+            "termo": "PGTO SALARIO",
+            "conta": "21101"
+        },
+        {
+            "termo": "IFOOD",
+            "conta": "32105"
+        },
+        {
+            "termo": "UBER",
+            "conta": "32106"
+        },
+        {
+            "termo": "POSTO IPIRANGA",
+            "conta": "32107"
+        },
+        {
+            "termo": "MENSALIDADE INTERNET",
+            "conta": "31203"
+        }
+    ]
+}

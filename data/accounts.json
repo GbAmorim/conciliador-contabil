@@ -1,0 +1,4432 @@
+[
+    {
+        "classificacao": "1",
+        "nome": "ATIVO",
+        "chamada": "1"
+    },
+    {
+        "classificacao": "1-1",
+        "nome": "ATIVO CIRCULANTE",
+        "chamada": "11"
+    },
+    {
+        "classificacao": "1-1-1",
+        "nome": "DISPONIBILIDADE",
+        "chamada": "111"
+    },
+    {
+        "classificacao": "1-1-1-01",
+        "nome": "CAIXA",
+        "chamada": "1111"
+    },
+    {
+        "classificacao": "1-1-1-01-0001",
+        "nome": "CAIXA MATRIZ",
+        "chamada": "111101"
+    },
+    {
+        "classificacao": "1-1-1-01-0002",
+        "nome": "CAIXA FILIAL 1",
+        "chamada": "111102"
+    },
+    {
+        "classificacao": "1-1-1-01-0003",
+        "nome": "CAIXA FILIAL 2",
+        "chamada": "111103"
+    },
+    {
+        "classificacao": "1-1-1-02",
+        "nome": "DEPÓSITOS BANCÁRIOS À VISTA",
+        "chamada": "1112"
+    },
+    {
+        "classificacao": "1-1-1-02-0001",
+        "nome": "BANCO ITAÚ S/A",
+        "chamada": "111201"
+    },
+    {
+        "classificacao": "1-1-1-02-0002",
+        "nome": "BANCO BRADESCO S/A",
+        "chamada": "111202"
+    },
+    {
+        "classificacao": "1-1-1-02-0003",
+        "nome": "BANCO DO BRASIL S/A",
+        "chamada": "111203"
+    },
+    {
+        "classificacao": "1-1-1-02-0004",
+        "nome": "BANCO SANTANDER S/A",
+        "chamada": "111204"
+    },
+    {
+        "classificacao": "1-1-1-02-0005",
+        "nome": "BANCO HSBC S/A",
+        "chamada": "111205"
+    },
+    {
+        "classificacao": "1-1-1-02-0006",
+        "nome": "BANCO CITIBANK S/A",
+        "chamada": "111206"
+    },
+    {
+        "classificacao": "1-1-1-02-0007",
+        "nome": "BANCO SAFRA S/A",
+        "chamada": "111207"
+    },
+    {
+        "classificacao": "1-1-1-02-0008",
+        "nome": "BANCO CAIXA ECONÔMICA FEDERAL",
+        "chamada": "111208"
+    },
+    {
+        "classificacao": "1-1-1-02-0009",
+        "nome": "BANCO BRADESCO S/A 2",
+        "chamada": "111209"
+    },
+    {
+        "classificacao": "1-1-1-02-0010",
+        "nome": "BANCO DA CHINA BRASIL S.A.",
+        "chamada": "111210"
+    },
+    {
+        "classificacao": "1-1-1-02-0011",
+        "nome": "BANCO ITAÚ S/A 2",
+        "chamada": "111211"
+    },
+    {
+        "classificacao": "1-1-1-02-0012",
+        "nome": "BANCO ITAÚ S/A 3",
+        "chamada": "111212"
+    },
+    {
+        "classificacao": "1-1-1-02-0013",
+        "nome": "BANCO DO BRASIL S/A 2",
+        "chamada": "111213"
+    },
+    {
+        "classificacao": "1-1-1-02-0014",
+        "nome": "BANCO CAIXA ECONÔMICA FEDERAL",
+        "chamada": "111214"
+    },
+    {
+        "classificacao": "1-1-1-02-0015",
+        "nome": "BANCO ITAÚ AG 0310 C/C 43435-2",
+        "chamada": "111215"
+    },
+    {
+        "classificacao": "1-1-1-02-0016",
+        "nome": "BANCO ITAÚ AG 0310 C/C 76654-8",
+        "chamada": "111216"
+    },
+    {
+        "classificacao": "1-1-1-02-0017",
+        "nome": "BANCO SANTANDER AG 3957 C/C 13-001609-6",
+        "chamada": "111217"
+    },
+    {
+        "classificacao": "1-1-1-02-0018",
+        "nome": "BANCO SANTANDER AG 3957 C/C 13-002315-7",
+        "chamada": "111218"
+    },
+    {
+        "classificacao": "1-1-1-02-0019",
+        "nome": "BANCO CAIXA ECONÔMICA AG 0204 C/C 1152-9",
+        "chamada": "111219"
+    },
+    {
+        "classificacao": "1-1-1-02-0020",
+        "nome": "BANCO CAIXA ECONÔMICA AG 4086 C/C 2044-8",
+        "chamada": "111220"
+    },
+    {
+        "classificacao": "1-1-1-02-0021",
+        "nome": "BANCO CAIXA ECONÔMICA AG 4402 C/C 0640-9",
+        "chamada": "111221"
+    },
+    {
+        "classificacao": "1-1-1-02-0022",
+        "nome": "BANCO SOCIETE GENERALE",
+        "chamada": "111222"
+    },
+    {
+        "classificacao": "1-1-1-02-0023",
+        "nome": "SICOOB",
+        "chamada": "111223"
+    },
+    {
+        "classificacao": "1-1-1-02-0024",
+        "nome": "BANCO ORIGINAL",
+        "chamada": "111224"
+    },
+    {
+        "classificacao": "1-1-1-02-0025",
+        "nome": "BANCO INTER",
+        "chamada": "111331"
+    },
+    {
+        "classificacao": "1-1-1-02-0026",
+        "nome": "PAG SEGURO",
+        "chamada": "111332"
+    },
+    {
+        "classificacao": "1-1-1-03",
+        "nome": "OUTRAS DISPONIBILIDADES",
+        "chamada": "1113"
+    },
+    {
+        "classificacao": "1-1-1-03-0001",
+        "nome": "APLICAÇÃO BANCO ITAÚ",
+        "chamada": "111301"
+    },
+    {
+        "classificacao": "1-1-1-03-0002",
+        "nome": "APLICAÇÃO BANCO BRADESCO",
+        "chamada": "111302"
+    },
+    {
+        "classificacao": "1-1-1-03-0003",
+        "nome": "APLICAÇÃO BANCO DO BRASIL",
+        "chamada": "111303"
+    },
+    {
+        "classificacao": "1-1-1-03-0004",
+        "nome": "APLICAÇÃO SANTANDER",
+        "chamada": "111304"
+    },
+    {
+        "classificacao": "1-1-1-03-0005",
+        "nome": "APLICAÇÃO BANCO HSBC",
+        "chamada": "111305"
+    },
+    {
+        "classificacao": "1-1-1-03-0006",
+        "nome": "APLICAÇÃO BANCO CITIBANK",
+        "chamada": "111306"
+    },
+    {
+        "classificacao": "1-1-1-03-0007",
+        "nome": "APLICAÇÃO BANCO SAFRA",
+        "chamada": "111307"
+    },
+    {
+        "classificacao": "1-1-1-03-0008",
+        "nome": "APLICAÇÃO BANCO CAIXA ECONÔMICA",
+        "chamada": "111308"
+    },
+    {
+        "classificacao": "1-1-1-03-0009",
+        "nome": "APLICAÇÃO ITAÚ AUTO MAIS",
+        "chamada": "111309"
+    },
+    {
+        "classificacao": "1-1-1-03-0010",
+        "nome": "SANTANDER CAPITALIZAÇÃO",
+        "chamada": "111310"
+    },
+    {
+        "classificacao": "1-1-1-03-0011",
+        "nome": "APLICAÇÃO BANCO HSBC CDB-RDB",
+        "chamada": "111311"
+    },
+    {
+        "classificacao": "1-1-1-03-0012",
+        "nome": "APLICAÇÃO BANCO BRASIL CDB-RDB",
+        "chamada": "111312"
+    },
+    {
+        "classificacao": "1-1-1-03-0013",
+        "nome": "XP INVESTIMENTOS",
+        "chamada": "111313"
+    },
+    {
+        "classificacao": "1-1-1-03-0014",
+        "nome": "BRADESCO CAPITALIZAÇÃO",
+        "chamada": "111314"
+    },
+    {
+        "classificacao": "1-1-1-03-0015",
+        "nome": "BRADESCO FI REF DI LP",
+        "chamada": "111315"
+    },
+    {
+        "classificacao": "1-1-1-03-0016",
+        "nome": "BANCO DO BRASIL CAPITALIZAÇÃO",
+        "chamada": "111316"
+    },
+    {
+        "classificacao": "1-1-1-03-0017",
+        "nome": "APLICAÇÃO ITAÚ AUTO MAIS AG 0310 C/C 43435-2",
+        "chamada": "111317"
+    },
+    {
+        "classificacao": "1-1-1-03-0018",
+        "nome": "APLICAÇÃO ITAÚ AUTO MAIS AG 0310 C/C 76654-8",
+        "chamada": "111318"
+    },
+    {
+        "classificacao": "1-1-1-03-0019",
+        "nome": "APLICAÇÃO BANCO SOCIETE GENERALE",
+        "chamada": "111319"
+    },
+    {
+        "classificacao": "1-1-1-03-0020",
+        "nome": "GUIDE INVESTIMENTOS",
+        "chamada": "111320"
+    },
+    {
+        "classificacao": "1-1-1-03-0021",
+        "nome": "INVESTIMENTO PELO SICOOB",
+        "chamada": "111321"
+    },
+    {
+        "classificacao": "1-1-1-03-0022",
+        "nome": "ITAÚ CAPITALIZAÇÃO",
+        "chamada": "111322"
+    },
+    {
+        "classificacao": "1-1-1-03-0023",
+        "nome": "CAPITALIZAÇÃO",
+        "chamada": "111323"
+    },
+    {
+        "classificacao": "1-1-1-03-0024",
+        "nome": "APLICAÇÃO BANCO ORIGINAL",
+        "chamada": "111324"
+    },
+    {
+        "classificacao": "1-1-1-03-9999",
+        "nome": "OUTRAS DISPONIBILIDADES",
+        "chamada": "111399"
+    },
+    {
+        "classificacao": "1-1-2",
+        "nome": "CRÉDITOS",
+        "chamada": "112"
+    },
+    {
+        "classificacao": "1-1-2-01",
+        "nome": "ADIANTAMENTOS",
+        "chamada": "1121"
+    },
+    {
+        "classificacao": "1-1-2-01-0001",
+        "nome": "ADIANTAMENTO A FORNECEDORES",
+        "chamada": "112101"
+    },
+    {
+        "classificacao": "1-1-2-01-0002",
+        "nome": "ADIANTAMENTOS A FUNCIONÁRIOS",
+        "chamada": "112102"
+    },
+    {
+        "classificacao": "1-1-2-01-0003",
+        "nome": "ADIANTAMENTOS A TERCEIROS",
+        "chamada": "112103"
+    },
+    {
+        "classificacao": "1-1-2-01-0004",
+        "nome": "ADIANTAMENTO DESPESA DE VIAGEM",
+        "chamada": "112104"
+    },
+    {
+        "classificacao": "1-1-2-01-0005",
+        "nome": "ADIANTAMENTO DE FÉRIAS",
+        "chamada": "112105"
+    },
+    {
+        "classificacao": "1-1-2-01-0006",
+        "nome": "ADIANTAMENTO DE 13º SALÁRIO",
+        "chamada": "112106"
+    },
+    {
+        "classificacao": "1-1-2-01-0007",
+        "nome": "ADIANTAMENTO DE PRÓ-LABORE",
+        "chamada": "112107"
+    },
+    {
+        "classificacao": "1-1-2-01-0008",
+        "nome": "ADIANTAMENTOS DE PIS A EMPREGADOS",
+        "chamada": "112108"
+    },
+    {
+        "classificacao": "1-1-2-01-0009",
+        "nome": "ADIANTAMENTO DE LUCRO",
+        "chamada": "112109"
+    },
+    {
+        "classificacao": "1-1-2-01-0010",
+        "nome": "ADIANTAMENTO PARA IMPORTAÇÃO",
+        "chamada": "112110"
+    },
+    {
+        "classificacao": "1-1-2-01-9999",
+        "nome": "OUTROS ADIANTAMENTOS",
+        "chamada": "112199"
+    },
+    {
+        "classificacao": "1-1-2-02",
+        "nome": "DUPLICATAS A RECEBER",
+        "chamada": "1122"
+    },
+    {
+        "classificacao": "1-1-2-02-0001",
+        "nome": "ORGANIZACAO HELIO ALONSO DE EDUCACAO E C",
+        "chamada": "111225"
+    },
+    {
+        "classificacao": "1-1-2-02-0001",
+        "nome": "RLG SERVICOS LTDA",
+        "chamada": "111232"
+    },
+    {
+        "classificacao": "1-1-2-02-0001",
+        "nome": "CLIENTES NACIONAIS",
+        "chamada": "112201"
+    },
+    {
+        "classificacao": "1-1-2-02-0002",
+        "nome": "CLIENTES NO EXTERIOR",
+        "chamada": "112202"
+    },
+    {
+        "classificacao": "1-1-2-02-0003",
+        "nome": "CARTÕES DE CRÉDITO A RECEBER",
+        "chamada": "112203"
+    },
+    {
+        "classificacao": "1-1-2-02-0004",
+        "nome": "ESCRITÓRIOS",
+        "chamada": "112204"
+    },
+    {
+        "classificacao": "1-1-2-02-0005",
+        "nome": "HOTELARIA (COZINHA)",
+        "chamada": "112205"
+    },
+    {
+        "classificacao": "1-1-2-02-0006",
+        "nome": "HOTELARIA (GOVERNANÇA)",
+        "chamada": "112206"
+    },
+    {
+        "classificacao": "1-1-2-02-0007",
+        "nome": "HOTELARIA (SALÃO)",
+        "chamada": "112207"
+    },
+    {
+        "classificacao": "1-1-2-02-0008",
+        "nome": "SHOWS & EVENTOS",
+        "chamada": "112208"
+    },
+    {
+        "classificacao": "1-1-2-02-0009",
+        "nome": "SERVIÇOS ONLINE, APLICATIVOS",
+        "chamada": "112209"
+    },
+    {
+        "classificacao": "1-1-2-02-0010",
+        "nome": "HOSPITALAR",
+        "chamada": "112210"
+    },
+    {
+        "classificacao": "1-1-2-03",
+        "nome": "TRIBUTOS A RECUPERAR",
+        "chamada": "1123"
+    },
+    {
+        "classificacao": "1-1-2-03-0001",
+        "nome": "IPI A RECUPERAR",
+        "chamada": "112301"
+    },
+    {
+        "classificacao": "1-1-2-03-0002",
+        "nome": "ICMS A RECUPERAR",
+        "chamada": "112302"
+    },
+    {
+        "classificacao": "1-1-2-03-0003",
+        "nome": "ICMS A RECUPERAR - FILIAL 1",
+        "chamada": "112303"
+    },
+    {
+        "classificacao": "1-1-2-03-0004",
+        "nome": "ICMS A RECUPERAR - FILIAL 2",
+        "chamada": "112304"
+    },
+    {
+        "classificacao": "1-1-2-03-0005",
+        "nome": "PIS A RECUPERAR - CRÉDITO BÁSICO",
+        "chamada": "112305"
+    },
+    {
+        "classificacao": "1-1-2-03-0006",
+        "nome": "PIS A RECUPERAR - CRÉDITO PRESUMIDO",
+        "chamada": "112306"
+    },
+    {
+        "classificacao": "1-1-2-03-0007",
+        "nome": "COFINS A RECUPERAR - CRÉDITO BÁSICO",
+        "chamada": "112307"
+    },
+    {
+        "classificacao": "1-1-2-03-0008",
+        "nome": "COFINS A RECUPERAR - CRÉDITO PRESUMIDO",
+        "chamada": "112308"
+    },
+    {
+        "classificacao": "1-1-2-03-0009",
+        "nome": "CIDE A RECUPERAR",
+        "chamada": "112309"
+    },
+    {
+        "classificacao": "1-1-2-03-0010",
+        "nome": "SIMPLES A RECUPERAR",
+        "chamada": "112310"
+    },
+    {
+        "classificacao": "1-1-2-03-0011",
+        "nome": "ISS A RECUPERAR",
+        "chamada": "112311"
+    },
+    {
+        "classificacao": "1-1-2-03-9999",
+        "nome": "OUTROS IMPOSTOS E CONTRIBUIÇÕES A RECUPERAR",
+        "chamada": "112399"
+    },
+    {
+        "classificacao": "1-1-2-04",
+        "nome": "TRIBUTOS A COMPENSAR",
+        "chamada": "1124"
+    },
+    {
+        "classificacao": "1-1-2-04-0001",
+        "nome": "IRRF A COMPENSAR",
+        "chamada": "112401"
+    },
+    {
+        "classificacao": "1-1-2-04-0002",
+        "nome": "IRPJ A COMPENSAR",
+        "chamada": "112402"
+    },
+    {
+        "classificacao": "1-1-2-04-0003",
+        "nome": "CSLL RETIDA NA FONTE",
+        "chamada": "112403"
+    },
+    {
+        "classificacao": "1-1-2-04-0004",
+        "nome": "CSLL A COMPENSAR",
+        "chamada": "112404"
+    },
+    {
+        "classificacao": "1-1-2-04-0005",
+        "nome": "PIS/PASEP RETIDO NA FONTE",
+        "chamada": "112405"
+    },
+    {
+        "classificacao": "1-1-2-04-0006",
+        "nome": "PIS/PASEP A COMPENSAR",
+        "chamada": "112406"
+    },
+    {
+        "classificacao": "1-1-2-04-0007",
+        "nome": "COFINS RETIDA NA FONTE",
+        "chamada": "112407"
+    },
+    {
+        "classificacao": "1-1-2-04-0008",
+        "nome": "COFINS A COMPENSAR",
+        "chamada": "112408"
+    },
+    {
+        "classificacao": "1-1-2-04-0009",
+        "nome": "IPI A COMPENSAR",
+        "chamada": "112409"
+    },
+    {
+        "classificacao": "1-1-2-04-0010",
+        "nome": "IOF A COMPENSAR",
+        "chamada": "112410"
+    },
+    {
+        "classificacao": "1-1-2-04-0011",
+        "nome": "IMPOSTO DE IMPORTAÇÃO A COMPENSAR",
+        "chamada": "112411"
+    },
+    {
+        "classificacao": "1-1-2-04-0012",
+        "nome": "IMPOSTO DE EXPORTAÇÃO A COMEPENSAR",
+        "chamada": "112412"
+    },
+    {
+        "classificacao": "1-1-2-04-0013",
+        "nome": "INSS RETIDO NA PRESTAÇÃO DE SERVIÇOS",
+        "chamada": "112413"
+    },
+    {
+        "classificacao": "1-1-2-04-0014",
+        "nome": "INSS A COMPENSAR",
+        "chamada": "112414"
+    },
+    {
+        "classificacao": "1-1-2-04-0015",
+        "nome": "SIMPLES A COMPENSAR",
+        "chamada": "112415"
+    },
+    {
+        "classificacao": "1-1-2-04-0016",
+        "nome": "ISS A COMPENSAR",
+        "chamada": "112416"
+    },
+    {
+        "classificacao": "1-1-2-04-0017",
+        "nome": "IPTU A COMPENSAR",
+        "chamada": "112417"
+    },
+    {
+        "classificacao": "1-1-2-04-0018",
+        "nome": "PRECATÓRIOS FEDERAIS A COMPENSAR",
+        "chamada": "112418"
+    },
+    {
+        "classificacao": "1-1-2-04-0019",
+        "nome": "IR SOBRE APLICAÇÃO FINANCEIRA",
+        "chamada": "112419"
+    },
+    {
+        "classificacao": "1-1-2-04-0020",
+        "nome": "IMPOSTOS FEDERAIS A COMPENSAR",
+        "chamada": "112420"
+    },
+    {
+        "classificacao": "1-1-2-04-9999",
+        "nome": "OUTROS TRIBUTOS A COMPENSAR",
+        "chamada": "112499"
+    },
+    {
+        "classificacao": "1-1-2-05",
+        "nome": "OUTROS CRÉDITOS",
+        "chamada": "1125"
+    },
+    {
+        "classificacao": "1-1-2-05-0001",
+        "nome": "MÚTUOS COM PARTES NÃO RELACIONADAS - NO PAÍS",
+        "chamada": "112501"
+    },
+    {
+        "classificacao": "1-1-2-05-0002",
+        "nome": "MÚTUOS COM PARTES NÃO RELACIONADAS - NO EXTERIOR",
+        "chamada": "112502"
+    },
+    {
+        "classificacao": "1-1-2-05-0003",
+        "nome": "DIVIDENDOS A RECEBER - NO PAÍS",
+        "chamada": "112503"
+    },
+    {
+        "classificacao": "1-1-2-05-0004",
+        "nome": "DIVIDENDOS A RECEBER - NO EXTERIOR",
+        "chamada": "112504"
+    },
+    {
+        "classificacao": "1-1-2-05-0005",
+        "nome": "JUROS SOBRE O CAPITAL PRÓPRIO A RECEBER",
+        "chamada": "112505"
+    },
+    {
+        "classificacao": "1-1-2-05-0006",
+        "nome": "DEMAIS CRÉDITOS A RECEBER",
+        "chamada": "112506"
+    },
+    {
+        "classificacao": "1-1-2-05-0007",
+        "nome": "DEMAIS CRÉDITOS CEDIDOS",
+        "chamada": "112507"
+    },
+    {
+        "classificacao": "1-1-2-05-0008",
+        "nome": "(-) DESÁGIL NA CESSÃO DE TRIBUTOS",
+        "chamada": "112508"
+    },
+    {
+        "classificacao": "1-1-2-05-0009",
+        "nome": "DIREITOS CREDITÓRIOS A RECEBER",
+        "chamada": "112509"
+    },
+    {
+        "classificacao": "1-1-2-05-0010",
+        "nome": "DEPÓSITOS JUDICIAIS",
+        "chamada": "112510"
+    },
+    {
+        "classificacao": "1-1-2-05-0011",
+        "nome": "ACORDOS EXTRAJUDICIAL",
+        "chamada": "112511"
+    },
+    {
+        "classificacao": "1-1-2-05-0012",
+        "nome": "CARTÕES DE CRÉDITO A RECEBER",
+        "chamada": "112512"
+    },
+    {
+        "classificacao": "1-1-2-05-9997",
+        "nome": "DÉBITOS / CRÉDITOS DE SÓCIOS",
+        "chamada": "112597"
+    },
+    {
+        "classificacao": "1-1-2-05-9998",
+        "nome": "OUTROS VALORES A RECEBER",
+        "chamada": "112598"
+    },
+    {
+        "classificacao": "1-1-2-05-9999",
+        "nome": "OUTROS JUROS A RECEBER",
+        "chamada": "112599"
+    },
+    {
+        "classificacao": "1-1-3",
+        "nome": "ESTOQUES",
+        "chamada": "113"
+    },
+    {
+        "classificacao": "1-1-3-01",
+        "nome": "ESTOQUES DE MERCADORIAS",
+        "chamada": "1131"
+    },
+    {
+        "classificacao": "1-1-3-01-0001",
+        "nome": "MERCADORIAS PARA REVENDA",
+        "chamada": "113101"
+    },
+    {
+        "classificacao": "1-1-3-01-0002",
+        "nome": "MERCADORIA PARA REVENDA - FILIAL 1",
+        "chamada": "113102"
+    },
+    {
+        "classificacao": "1-1-3-01-0003",
+        "nome": "MERCADORIA PARA REVENDA - FILIAL 2",
+        "chamada": "113103"
+    },
+    {
+        "classificacao": "1-1-3-01-0004",
+        "nome": "MERCADORIA PARA REVENDA - FILIAL 3",
+        "chamada": "113104"
+    },
+    {
+        "classificacao": "1-1-3-02",
+        "nome": "ESTOQUES DE PRODUTOS",
+        "chamada": "1132"
+    },
+    {
+        "classificacao": "1-1-3-02-0001",
+        "nome": "INSUMOS (MATERIAIS DIRETOS)",
+        "chamada": "113201"
+    },
+    {
+        "classificacao": "1-1-3-02-0002",
+        "nome": "OUTROS MATERIAIS",
+        "chamada": "113202"
+    },
+    {
+        "classificacao": "1-1-3-02-0003",
+        "nome": "PRODUTOS EM ELABORAÇÃO",
+        "chamada": "113203"
+    },
+    {
+        "classificacao": "1-1-3-02-0004",
+        "nome": "PRODUTOS ACABADOS",
+        "chamada": "113204"
+    },
+    {
+        "classificacao": "1-1-3-03",
+        "nome": "ESTOQUES - ATIVIDADES IMOBILIÁRIAS",
+        "chamada": "1133"
+    },
+    {
+        "classificacao": "1-1-3-03-0001",
+        "nome": "TERRENOS",
+        "chamada": "113301"
+    },
+    {
+        "classificacao": "1-1-3-03-0002",
+        "nome": "IMÓVEIS ADQUIRIDOS PARA REVENDA",
+        "chamada": "113302"
+    },
+    {
+        "classificacao": "1-1-3-03-0003",
+        "nome": "OBRAS EM ANDAMENTO",
+        "chamada": "113303"
+    },
+    {
+        "classificacao": "1-1-3-03-0004",
+        "nome": "IMÓVEIS À VENDA",
+        "chamada": "113304"
+    },
+    {
+        "classificacao": "1-1-3-03-0005",
+        "nome": "CONSTRUÇÕES ANDAMENTO IMÓVEIS DESTINADOS À VENDA",
+        "chamada": "113305"
+    },
+    {
+        "classificacao": "1-1-3-03-0006",
+        "nome": "MATERIAIS DE CONSTRUÇÃO",
+        "chamada": "113306"
+    },
+    {
+        "classificacao": "1-1-3-04",
+        "nome": "ESTOQUE SERVIÇOS",
+        "chamada": "1134"
+    },
+    {
+        "classificacao": "1-1-3-04-0001",
+        "nome": "MATERIAIS APLICADOS NA PRODUÇÃO DE SERVIÇOS",
+        "chamada": "113401"
+    },
+    {
+        "classificacao": "1-1-3-04-0002",
+        "nome": "SERVIÇOS EM ANDAMENTO",
+        "chamada": "113402"
+    },
+    {
+        "classificacao": "1-1-3-04-0003",
+        "nome": "SERVIÇOS ACABADOS",
+        "chamada": "113403"
+    },
+    {
+        "classificacao": "1-1-3-05",
+        "nome": "ESTOQUES (OUTROS)",
+        "chamada": "1135"
+    },
+    {
+        "classificacao": "1-1-3-05-0001",
+        "nome": "MATERIAL EM ALMOXARIFADO",
+        "chamada": "113501"
+    },
+    {
+        "classificacao": "1-1-3-05-0002",
+        "nome": "MATERIAL DESTINADO À DESTRUIÇÃO",
+        "chamada": "113502"
+    },
+    {
+        "classificacao": "1-1-3-05-0003",
+        "nome": "SUCATA",
+        "chamada": "113503"
+    },
+    {
+        "classificacao": "1-1-3-05-0004",
+        "nome": "OUTROS ESTOQUES",
+        "chamada": "113504"
+    },
+    {
+        "classificacao": "1-1-3-05-0005",
+        "nome": "ESTOQUE DE MERCADORIA DE TERCEIROS",
+        "chamada": "113505"
+    },
+    {
+        "classificacao": "1-2",
+        "nome": "ATIVO NÃO CIRCULANTE",
+        "chamada": "12"
+    },
+    {
+        "classificacao": "1-2-1",
+        "nome": "REALIZÁVEL A LONGO PRAZO",
+        "chamada": "121"
+    },
+    {
+        "classificacao": "1-2-1-01",
+        "nome": "CRÉDITOS E VALORES A LONGO PRAZO",
+        "chamada": "1211"
+    },
+    {
+        "classificacao": "1-2-1-01-0001",
+        "nome": "CLIENTES",
+        "chamada": "121101"
+    },
+    {
+        "classificacao": "1-2-1-01-0002",
+        "nome": "MÚTUOS COM PARTES NÃO RELACIONADAS",
+        "chamada": "121102"
+    },
+    {
+        "classificacao": "1-2-1-01-0003",
+        "nome": "MÚTUOS COM PARTES RELACIONADAS",
+        "chamada": "121103"
+    },
+    {
+        "classificacao": "1-2-1-01-0004",
+        "nome": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL",
+        "chamada": "121104"
+    },
+    {
+        "classificacao": "1-2-1-01-0005",
+        "nome": "TÍTULOS PATRIMONIAIS AVALIADOS PELO CUSTO",
+        "chamada": "121105"
+    },
+    {
+        "classificacao": "1-2-1-01-0006",
+        "nome": "CONTRAPRESTAÇÃO CONTIGENTE ATIVA",
+        "chamada": "121106"
+    },
+    {
+        "classificacao": "1-2-1-01-0007",
+        "nome": "EMPRÉSTIMO AOS SÓCIOS",
+        "chamada": "121107"
+    },
+    {
+        "classificacao": "1-2-1-01-0008",
+        "nome": "MATRIZ",
+        "chamada": "121108"
+    },
+    {
+        "classificacao": "1-2-1-01-0009",
+        "nome": "FILIAL 1",
+        "chamada": "121109"
+    },
+    {
+        "classificacao": "1-2-1-01-0010",
+        "nome": "FILIAL 2",
+        "chamada": "121110"
+    },
+    {
+        "classificacao": "1-2-1-01-0011",
+        "nome": "DIREITOS CREDITÓRIOS CEDIDOS",
+        "chamada": "121111"
+    },
+    {
+        "classificacao": "1-2-1-01-0012",
+        "nome": "DIREITOS CREDITÓRIOS A RECEBER",
+        "chamada": "121112"
+    },
+    {
+        "classificacao": "1-2-1-01-0013",
+        "nome": "EMPRÉSTIMOS A DIRETORES",
+        "chamada": "121113"
+    },
+    {
+        "classificacao": "1-2-1-01-0014",
+        "nome": "FILIAL 3",
+        "chamada": "121114"
+    },
+    {
+        "classificacao": "1-2-1-01-0015",
+        "nome": "TRANSFERÊNCIA DE MERCADORIA",
+        "chamada": "121115"
+    },
+    {
+        "classificacao": "1-2-1-01-0016",
+        "nome": "EMPRÉSTIMO CONCEDIDO A EMPRESA EMIR",
+        "chamada": "121116"
+    },
+    {
+        "classificacao": "1-2-1-01-0017",
+        "nome": "EMPRÉSTIMO CONCEDIDO A EMPRESA AGRONEGÓCIO",
+        "chamada": "121117"
+    },
+    {
+        "classificacao": "1-2-1-01-0018",
+        "nome": "EMPRÉSTIMO CONCEDIDO A EMPRESA ETC",
+        "chamada": "121118"
+    },
+    {
+        "classificacao": "1-2-1-01-9999",
+        "nome": "OUTROS VALOR MOBILIÁRIOS NO EXTERIOR",
+        "chamada": "121199"
+    },
+    {
+        "classificacao": "1-2-1-02",
+        "nome": "VALORES MOBILIÁRIOS - NO PAÍS",
+        "chamada": "1212"
+    },
+    {
+        "classificacao": "1-2-1-02-0001",
+        "nome": "TÍTULOS PARA NEGOCIAÇÃO",
+        "chamada": "121201"
+    },
+    {
+        "classificacao": "1-2-1-02-0002",
+        "nome": "TÍTULOS DISPONÍVEIS PARA VENDA",
+        "chamada": "121202"
+    },
+    {
+        "classificacao": "1-2-1-02-0003",
+        "nome": "TÍTULOS MANTIDOS ATÉ O VENCIMENTO",
+        "chamada": "121203"
+    },
+    {
+        "classificacao": "1-2-1-02-0004",
+        "nome": "DEBÊNTURES EMITIDAS POR PARTES RELACIONADAS",
+        "chamada": "121204"
+    },
+    {
+        "classificacao": "1-2-1-02-0005",
+        "nome": "DEBÊNTURES EMITIDAS POR PARTES NÃO RELACIONADAS",
+        "chamada": "121205"
+    },
+    {
+        "classificacao": "1-2-1-02-0006",
+        "nome": "EMPRÉSTIMO AOS FUNCIONÁRIOS",
+        "chamada": "121206"
+    },
+    {
+        "classificacao": "1-2-1-02-9999",
+        "nome": "OUTROS EMPRÉSTIMOS",
+        "chamada": "121299"
+    },
+    {
+        "classificacao": "1-2-1-03",
+        "nome": "ATIVOS FISCAIS DIFERIDOS",
+        "chamada": "1213"
+    },
+    {
+        "classificacao": "1-2-1-03-0001",
+        "nome": "CRÉDITOS FISCAIS CSLL",
+        "chamada": "121301"
+    },
+    {
+        "classificacao": "1-2-1-03-0002",
+        "nome": "CRÉDITOS FISCAIS IRPJ",
+        "chamada": "121302"
+    },
+    {
+        "classificacao": "1-2-1-04",
+        "nome": "CRÉDITOS EM CONTENCIOSO",
+        "chamada": "1214"
+    },
+    {
+        "classificacao": "1-2-1-04-0001",
+        "nome": "DEPÓSITOS EM CONTENCIOSO",
+        "chamada": "121401"
+    },
+    {
+        "classificacao": "1-2-1-04-0002",
+        "nome": "DEPÓSITOS JUDICIAIS",
+        "chamada": "121402"
+    },
+    {
+        "classificacao": "1-2-1-04-0003",
+        "nome": "DEPÓSITOS E CAUÇÕES",
+        "chamada": "121403"
+    },
+    {
+        "classificacao": "1-2-1-04-9999",
+        "nome": "OUTROS CRÉDITOS EM CONTENCIOSO",
+        "chamada": "121499"
+    },
+    {
+        "classificacao": "1-2-1-05",
+        "nome": "DESPESAS PAGAS ANTECIPADAMENTE - LP",
+        "chamada": "1215"
+    },
+    {
+        "classificacao": "1-2-1-05-0001",
+        "nome": "ALUGUÉIS PAGOS ANTECIPADAMENTE",
+        "chamada": "121501"
+    },
+    {
+        "classificacao": "1-2-1-05-0002",
+        "nome": "PRÊMIOS DE SEGUROS A APROPRIAR",
+        "chamada": "121502"
+    },
+    {
+        "classificacao": "1-2-1-05-0003",
+        "nome": "ENCARGOS FINANCEIROS A APROPRIAR",
+        "chamada": "121503"
+    },
+    {
+        "classificacao": "1-2-1-05-0004",
+        "nome": "VALE TRANSPORTE A APROPRIAR",
+        "chamada": "121504"
+    },
+    {
+        "classificacao": "1-2-1-05-0005",
+        "nome": "VALE REFEIÇÃO E ALIMENTAÇÃO A APROPRIAR",
+        "chamada": "121505"
+    },
+    {
+        "classificacao": "1-2-1-05-9999",
+        "nome": "OUTROS CUSTOS E DESPESAS PAGOS ANTECIPADAMENTE",
+        "chamada": "121599"
+    },
+    {
+        "classificacao": "1-2-2",
+        "nome": "INVESTIMENTOS",
+        "chamada": "122"
+    },
+    {
+        "classificacao": "1-2-2-01",
+        "nome": "PARTICIPAÇÕES PERMANENTES EM SOCIEDADES - NO PAÍS",
+        "chamada": "1221"
+    },
+    {
+        "classificacao": "1-2-2-01-0001",
+        "nome": "PARTICIPAÇÕES PERMANENTES EM CONTROLADAS",
+        "chamada": "122101"
+    },
+    {
+        "classificacao": "1-2-2-01-0002",
+        "nome": "PARTICIPAÇÕES PERMANENTES EM COLIGADAS",
+        "chamada": "122102"
+    },
+    {
+        "classificacao": "1-2-2-01-0003",
+        "nome": "GOODWILL EM INVESTIMENTOS",
+        "chamada": "122103"
+    },
+    {
+        "classificacao": "1-2-2-01-0004",
+        "nome": "MAIS VALIA EM INVESTIMENTOS",
+        "chamada": "122104"
+    },
+    {
+        "classificacao": "1-2-2-01-0005",
+        "nome": "ÁGIOS EM INVESTIMENTOS GERADOS",
+        "chamada": "122105"
+    },
+    {
+        "classificacao": "1-2-2-01-0006",
+        "nome": "CONTROLADA - ARMÓSIA AGRONEGÓCIOS - VALOR PATRIM",
+        "chamada": "122106"
+    },
+    {
+        "classificacao": "1-2-2-01-0007",
+        "nome": "EQUIVALÊNCIA PATRIMONIAL - ARMÓSIA AGRONEGÓCIO",
+        "chamada": "122107"
+    },
+    {
+        "classificacao": "1-2-2-01-0008",
+        "nome": "CONTROLADA - ETC - VALOR PATRIMONIAL",
+        "chamada": "122108"
+    },
+    {
+        "classificacao": "1-2-2-01-0009",
+        "nome": "EQUIVALÊNCIA PATRIMONIAL - ETC",
+        "chamada": "122109"
+    },
+    {
+        "classificacao": "1-2-2-01-0010",
+        "nome": "CONTROLADA - ARMOTEC - VALOR PATRIMONIAL",
+        "chamada": "122110"
+    },
+    {
+        "classificacao": "1-2-2-01-0011",
+        "nome": "EQUIVALÊNCIA PATRIMONIAL - ARMOTEC",
+        "chamada": "122111"
+    },
+    {
+        "classificacao": "1-2-2-02",
+        "nome": "PARTICIPAÇÕES PERMANENTES SOCIEDADES - NO EXTERIOR",
+        "chamada": "1222"
+    },
+    {
+        "classificacao": "1-2-2-02-0001",
+        "nome": "PARTICIPAÇÃO PERMENTES EM CONTROLADAS",
+        "chamada": "122201"
+    },
+    {
+        "classificacao": "1-2-2-02-0002",
+        "nome": "GOODWILL EM INVESTIMENTOS",
+        "chamada": "122202"
+    },
+    {
+        "classificacao": "1-2-2-02-0003",
+        "nome": "MAIS VALIA EM INVESTIMENTOS",
+        "chamada": "122203"
+    },
+    {
+        "classificacao": "1-2-2-02-0004",
+        "nome": "ÁGIOS EM INVESTIMENTOS GERADOS",
+        "chamada": "122204"
+    },
+    {
+        "classificacao": "1-2-2-03",
+        "nome": "PROPRIEDADES PARA INVESTIMENTOS",
+        "chamada": "1223"
+    },
+    {
+        "classificacao": "1-2-2-03-0001",
+        "nome": "IMÓVEIS PRÓPRIOS EM CONSTRUÇÃO",
+        "chamada": "122301"
+    },
+    {
+        "classificacao": "1-2-2-03-0002",
+        "nome": "IMÓVEIS PRÓPRIOS - PELO CUSTO",
+        "chamada": "122302"
+    },
+    {
+        "classificacao": "1-2-2-03-0003",
+        "nome": "IMÓVEIS PRÓPRIOS - VALOR JUSTO",
+        "chamada": "122303"
+    },
+    {
+        "classificacao": "1-2-2-03-0004",
+        "nome": "IMÓVEIS OBJETO DE LEASING FINANCEIRO",
+        "chamada": "122304"
+    },
+    {
+        "classificacao": "1-2-2-03-9999",
+        "nome": "(-) DEPRECIAÇÃO ACUMULADA",
+        "chamada": "122399"
+    },
+    {
+        "classificacao": "1-2-2-04",
+        "nome": "OUTROS INVESTIMENTOS PERMANENTES",
+        "chamada": "1224"
+    },
+    {
+        "classificacao": "1-2-2-04-0001",
+        "nome": "INVESTIMENTOS DECORRENTES DE INCENTIVOS FISCAIS",
+        "chamada": "122401"
+    },
+    {
+        "classificacao": "1-2-2-04-0002",
+        "nome": "OUTROS INVESTIMENTOS PERMANENTES",
+        "chamada": "122402"
+    },
+    {
+        "classificacao": "1-2-2-04-0003",
+        "nome": "VGBL",
+        "chamada": "122403"
+    },
+    {
+        "classificacao": "1-2-2-04-0004",
+        "nome": "EDIÇÃO DE LIVROS",
+        "chamada": "122404"
+    },
+    {
+        "classificacao": "1-2-3",
+        "nome": "IMOBILIZADO",
+        "chamada": "123"
+    },
+    {
+        "classificacao": "1-2-3-01",
+        "nome": "IMOBILIZADO - AQUISIÇÃO",
+        "chamada": "1231"
+    },
+    {
+        "classificacao": "1-2-3-01-0001",
+        "nome": "TERRENOS",
+        "chamada": "123101"
+    },
+    {
+        "classificacao": "1-2-3-01-0002",
+        "nome": "EDIFICAÇÕES",
+        "chamada": "123102"
+    },
+    {
+        "classificacao": "1-2-3-01-0003",
+        "nome": "CONSTRUÇÕES EM ANDAMENTO",
+        "chamada": "123103"
+    },
+    {
+        "classificacao": "1-2-3-01-0004",
+        "nome": "OUTRAS IMOBILIZAÇÕES EM ANDAMENTO",
+        "chamada": "123104"
+    },
+    {
+        "classificacao": "1-2-3-01-0005",
+        "nome": "BENFEITORIAS EM IMÓVEIS DE TERCEIROS",
+        "chamada": "123105"
+    },
+    {
+        "classificacao": "1-2-3-01-0006",
+        "nome": "MÁQUINAS, EQUIPAMENTOS E INSTALAÇÕES INDUSTRIAIS",
+        "chamada": "123106"
+    },
+    {
+        "classificacao": "1-2-3-01-0007",
+        "nome": "MÓVEIS, UTENSÍLIOS E INSTALAÇÕES COMERCIAIS",
+        "chamada": "123107"
+    },
+    {
+        "classificacao": "1-2-3-01-0008",
+        "nome": "VEÍCULOS",
+        "chamada": "123108"
+    },
+    {
+        "classificacao": "1-2-3-01-0009",
+        "nome": "EMBARCAÇÕES",
+        "chamada": "123109"
+    },
+    {
+        "classificacao": "1-2-3-01-0010",
+        "nome": "AERONAVES",
+        "chamada": "123110"
+    },
+    {
+        "classificacao": "1-2-3-01-0011",
+        "nome": "RECURSOS MINERAIS",
+        "chamada": "123111"
+    },
+    {
+        "classificacao": "1-2-3-01-0012",
+        "nome": "DUTOS E TUBULAÇÕES",
+        "chamada": "123112"
+    },
+    {
+        "classificacao": "1-2-3-01-0013",
+        "nome": "LINHAS DE TRANSMISSÃO ELÉTRICA",
+        "chamada": "123113"
+    },
+    {
+        "classificacao": "1-2-3-01-0014",
+        "nome": "ANTENAS E TORRES DE TRANSMISSÃO",
+        "chamada": "123114"
+    },
+    {
+        "classificacao": "1-2-3-01-0015",
+        "nome": "MÁQUINAS EMPREGADAS NA ATIVIDADE RURAL",
+        "chamada": "123115"
+    },
+    {
+        "classificacao": "1-2-3-01-0016",
+        "nome": "TRATORES E DEMAIS VEÍCULOS EMPREGADOS",
+        "chamada": "123116"
+    },
+    {
+        "classificacao": "1-2-3-01-0017",
+        "nome": "COMPUTADORES, TELEFONIA E PERIFÉRICOS",
+        "chamada": "123117"
+    },
+    {
+        "classificacao": "1-2-3-01-0018",
+        "nome": "CONSÓRCIO",
+        "chamada": "123118"
+    },
+    {
+        "classificacao": "1-2-3-01-0019",
+        "nome": "IMOVEIS",
+        "chamada": "123119"
+    },
+    {
+        "classificacao": "1-2-3-01-0050",
+        "nome": "(-) DEPREC ACUMULADA BENFEITORIAS",
+        "chamada": "123150"
+    },
+    {
+        "classificacao": "1-2-3-01-0051",
+        "nome": "(-) DEPREC ACUMULADA MÁQ EQUIP INSTAL INDUSTRIAIS",
+        "chamada": "123151"
+    },
+    {
+        "classificacao": "1-2-3-01-0052",
+        "nome": "(-) DEPREC ACUMULADA MÓVEIS E UTENSÍLIOS",
+        "chamada": "123152"
+    },
+    {
+        "classificacao": "1-2-3-01-0053",
+        "nome": "(-) DEPREC ACUMULADA VEÍCULOS",
+        "chamada": "123153"
+    },
+    {
+        "classificacao": "1-2-3-01-0054",
+        "nome": "(-) DEPREC ACUMULADA EMBARCAÇÕES",
+        "chamada": "123154"
+    },
+    {
+        "classificacao": "1-2-3-01-0055",
+        "nome": "(-) DEPREC ACUMULADA AERONAVES",
+        "chamada": "123155"
+    },
+    {
+        "classificacao": "1-2-3-01-0056",
+        "nome": "(-) DEPREC ACUMULADA RECURSOS MINERAIS",
+        "chamada": "123156"
+    },
+    {
+        "classificacao": "1-2-3-01-0057",
+        "nome": "(-) DEPREC ACUMULADA DUTOS E TUBULAÇÕES",
+        "chamada": "123157"
+    },
+    {
+        "classificacao": "1-2-3-01-0058",
+        "nome": "(-) DEPREC ACUMULADA LINHAS DE TRANSMISSÃO",
+        "chamada": "123158"
+    },
+    {
+        "classificacao": "1-2-3-01-0059",
+        "nome": "(-) DEPREC ACUMULADA ANTENAS E TORRES TRANSMISSÃO",
+        "chamada": "123159"
+    },
+    {
+        "classificacao": "1-2-3-01-0060",
+        "nome": "(-) DEPREC ACUMULADA MÁQUINAS ATIVIDADE RURAL",
+        "chamada": "123160"
+    },
+    {
+        "classificacao": "1-2-3-01-0061",
+        "nome": "(-) DEPREC ACUMULADA TRATORES E DEMAIS VEÍCULOS",
+        "chamada": "123161"
+    },
+    {
+        "classificacao": "1-2-3-01-0062",
+        "nome": "(-) DEPREC ACUMULADA COMPUTADORES E TELEFONIA",
+        "chamada": "123162"
+    },
+    {
+        "classificacao": "1-2-3-01-0063",
+        "nome": "(-) DEPREC EDIFICAÇÕES",
+        "chamada": "123163"
+    },
+    {
+        "classificacao": "1-2-3-01-9997",
+        "nome": "(-) EXAUSTÃO ACUMULADA",
+        "chamada": "123197"
+    },
+    {
+        "classificacao": "1-2-3-01-9998",
+        "nome": "(-) AMORTIZAÇÃO ACUMULADA",
+        "chamada": "123198"
+    },
+    {
+        "classificacao": "1-2-3-01-9999",
+        "nome": "(-) DEPRECIAÇÃO ACUMULADA",
+        "chamada": "123199"
+    },
+    {
+        "classificacao": "1-2-3-02",
+        "nome": "IMOBILIZADO - LEASING FINANCEIRO",
+        "chamada": "1232"
+    },
+    {
+        "classificacao": "1-2-3-02-0001",
+        "nome": "VEÍCULOS",
+        "chamada": "123201"
+    },
+    {
+        "classificacao": "1-2-3-02-0002",
+        "nome": "EMBARCAÇÕES",
+        "chamada": "123202"
+    },
+    {
+        "classificacao": "1-2-3-02-0003",
+        "nome": "AERONAVES",
+        "chamada": "123203"
+    },
+    {
+        "classificacao": "1-2-3-02-0004",
+        "nome": "MÁQUINAS, EQUIPAMENTOS E INSTALAÇÕES INDUSTRIAIS",
+        "chamada": "123204"
+    },
+    {
+        "classificacao": "1-2-3-02-0005",
+        "nome": "MÓVEIS, UTENSÍLIOS E INSTALAÇÕES COMERCIAIS",
+        "chamada": "123205"
+    },
+    {
+        "classificacao": "1-2-3-02-0006",
+        "nome": "IMÓVEIS",
+        "chamada": "123206"
+    },
+    {
+        "classificacao": "1-2-3-02-0007",
+        "nome": "OUTRAS IMOBILIZAÇÕES POR ARREDONDAMENTO",
+        "chamada": "123207"
+    },
+    {
+        "classificacao": "1-2-3-02-9998",
+        "nome": "(-) AMORTIZAÇÃO ACUMULADA",
+        "chamada": "123298"
+    },
+    {
+        "classificacao": "1-2-3-02-9999",
+        "nome": "(-) DEPRECIAÇÃO ACUMULADA",
+        "chamada": "123299"
+    },
+    {
+        "classificacao": "1-2-3-03",
+        "nome": "OUTROS IMOBILIZADOS",
+        "chamada": "1233"
+    },
+    {
+        "classificacao": "1-2-3-03-0001",
+        "nome": "IMOBILIZADOS RECEBIDOS SUBVENÇÕES GOVERNAMENTAIS",
+        "chamada": "123301"
+    },
+    {
+        "classificacao": "1-2-3-03-9999",
+        "nome": "OUTROS IMOBILIZADOS",
+        "chamada": "123399"
+    },
+    {
+        "classificacao": "1-2-4",
+        "nome": "INTANGÍVEL",
+        "chamada": "124"
+    },
+    {
+        "classificacao": "1-2-4-01",
+        "nome": "ATIVOS INTANGÍVEIS",
+        "chamada": "1241"
+    },
+    {
+        "classificacao": "1-2-4-01-0001",
+        "nome": "MARCAS",
+        "chamada": "124101"
+    },
+    {
+        "classificacao": "1-2-4-01-0002",
+        "nome": "PATENTES E SEGREDOS INDUSTRIAIS",
+        "chamada": "124102"
+    },
+    {
+        "classificacao": "1-2-4-01-0003",
+        "nome": "DIREITOS DE EXPLORAÇÃO DE SERVIÇOS PÚBLICOS",
+        "chamada": "124103"
+    },
+    {
+        "classificacao": "1-2-4-01-0004",
+        "nome": "DIREITOS DE EXPLORAÇÃO DE RECURSOS FLORESTAIS",
+        "chamada": "124104"
+    },
+    {
+        "classificacao": "1-2-4-01-0005",
+        "nome": "DIREITOS DE EXPLORAÇÃO DE RECURSOS MINERAIS",
+        "chamada": "124105"
+    },
+    {
+        "classificacao": "1-2-4-01-0006",
+        "nome": "DIREITOS DE EXPLORAÇÃO DE RECURSOS HÍDRICOS",
+        "chamada": "124106"
+    },
+    {
+        "classificacao": "1-2-4-01-0007",
+        "nome": "DIREITOS AUTORAIS",
+        "chamada": "124107"
+    },
+    {
+        "classificacao": "1-2-4-01-0008",
+        "nome": "PATRIMÔNIO CULTURAL",
+        "chamada": "124108"
+    },
+    {
+        "classificacao": "1-2-4-01-0009",
+        "nome": "FUNDO DE COMÉRCIO",
+        "chamada": "124109"
+    },
+    {
+        "classificacao": "1-2-4-01-0010",
+        "nome": "SOFTWARE OU PROGRAMAS DE COMPUTADOR",
+        "chamada": "124110"
+    },
+    {
+        "classificacao": "1-2-4-01-0011",
+        "nome": "CONTRATOS DE ALUGUEL",
+        "chamada": "124111"
+    },
+    {
+        "classificacao": "1-2-4-01-0012",
+        "nome": "CONTRATOS DE FRANQUIAS",
+        "chamada": "124112"
+    },
+    {
+        "classificacao": "1-2-4-01-0013",
+        "nome": "DESENVOLVIMENTO DE PRODUTOS OU SERVIÇOS",
+        "chamada": "124113"
+    },
+    {
+        "classificacao": "1-2-4-01-0014",
+        "nome": "DIREITO READQUIRIDO",
+        "chamada": "124114"
+    },
+    {
+        "classificacao": "1-2-4-01-0015",
+        "nome": "LEASING OPERACIONAL CONTRATADO PELA ADQUIRIDA",
+        "chamada": "124115"
+    },
+    {
+        "classificacao": "1-2-4-01-0016",
+        "nome": "INTANGÍVEIS NÃO RECONHECIDOS NA ADQUIRIDA",
+        "chamada": "124116"
+    },
+    {
+        "classificacao": "1-2-4-01-0017",
+        "nome": "INTANGÍVEIS RECEBIDOS SUBVENÇÕES DO GOVERNO",
+        "chamada": "124117"
+    },
+    {
+        "classificacao": "1-2-4-01-9998",
+        "nome": "(-) AMORTIZAÇÃO ACUMULADA",
+        "chamada": "124198"
+    },
+    {
+        "classificacao": "1-2-5",
+        "nome": "DIFERIDO",
+        "chamada": "125"
+    },
+    {
+        "classificacao": "1-2-5-01",
+        "nome": "ATIVO DIFERIDO",
+        "chamada": "1251"
+    },
+    {
+        "classificacao": "1-2-5-01-0001",
+        "nome": "DESPESAS PRÉ-OPERACIONAIS OU PRÉ-INDUSTRIAIS",
+        "chamada": "125101"
+    },
+    {
+        "classificacao": "1-2-5-01-0002",
+        "nome": "DESPESAS COM PESQUISAS CIENTÍFICAS OU TECNOLÓGICAS",
+        "chamada": "125102"
+    },
+    {
+        "classificacao": "1-2-5-01-0003",
+        "nome": "DEMAIS APLICAÇÕES EM DESPESAS AMORTIZÁVEIS",
+        "chamada": "125103"
+    },
+    {
+        "classificacao": "1-2-5-01-9998",
+        "nome": "(-) AMORTIZAÇÃO ACUMULADA",
+        "chamada": "125198"
+    },
+    {
+        "classificacao": "1-2-9",
+        "nome": "CONTAS DE COMPENSAÇÃO DO ATIVO",
+        "chamada": "129"
+    },
+    {
+        "classificacao": "1-2-9-01",
+        "nome": "CONTAS DE COMPENSAÇÃO",
+        "chamada": "1291"
+    },
+    {
+        "classificacao": "1-2-9-01-0001",
+        "nome": "REMESSA PARA CONSIGNAÇÃO",
+        "chamada": "129101"
+    },
+    {
+        "classificacao": "1-3",
+        "nome": "COMPENSAÇÃO DO ATIVO",
+        "chamada": "13"
+    },
+    {
+        "classificacao": "1-3-1",
+        "nome": "OUTROS CRÉDITOS",
+        "chamada": "131"
+    },
+    {
+        "classificacao": "1-3-1-01",
+        "nome": "NOTAS FISCAIS SAÍDAS POR TRANSFERÊNCIA",
+        "chamada": "1311"
+    },
+    {
+        "classificacao": "1-3-1-01-0001",
+        "nome": "REMESSA PARA INDUSTRIALIZAÇÃO",
+        "chamada": "131101"
+    },
+    {
+        "classificacao": "1-3-1-01-0002",
+        "nome": "REMESSA PARA DEMONSTRAÇÃO",
+        "chamada": "131102"
+    },
+    {
+        "classificacao": "1-3-1-01-0003",
+        "nome": "REMESSA PARA CONSERTO",
+        "chamada": "131103"
+    },
+    {
+        "classificacao": "1-3-1-01-0004",
+        "nome": "OUTRAS REMESSAS",
+        "chamada": "131104"
+    },
+    {
+        "classificacao": "1-3-1-02",
+        "nome": "RETORNO NOTAS FISCAIS ENTRADA POR TRANSFERÊNCIA",
+        "chamada": "1312"
+    },
+    {
+        "classificacao": "1-3-1-02-0001",
+        "nome": "RETORNO RECEBIMENTO PARA INDUSTRIALIZAÇÃO",
+        "chamada": "131201"
+    },
+    {
+        "classificacao": "1-3-1-02-0002",
+        "nome": "RETORNO RECEBIMENTO PARA DEMONSTRAÇÃO",
+        "chamada": "131202"
+    },
+    {
+        "classificacao": "1-3-1-02-0003",
+        "nome": "RETORNO RECEBIMENTO PARA CONSERTO",
+        "chamada": "131203"
+    },
+    {
+        "classificacao": "1-3-1-02-0004",
+        "nome": "RETORNO RECEBIMENTO OUTRAS ENTRADAS",
+        "chamada": "131204"
+    },
+    {
+        "classificacao": "1-3-1-03",
+        "nome": "NOTAS FISCAIS DE SAÍDA",
+        "chamada": "1313"
+    },
+    {
+        "classificacao": "1-3-1-03-0001",
+        "nome": "MERCADORIA DE CONSIGNAÇÃO",
+        "chamada": "131301"
+    },
+    {
+        "classificacao": "1-3-1-03-0002",
+        "nome": "BEM EM COMODATO",
+        "chamada": "131302"
+    },
+    {
+        "classificacao": "1-3-1-03-0003",
+        "nome": "BEM P/USO FORA DO ESTABELECIMENTO",
+        "chamada": "131303"
+    },
+    {
+        "classificacao": "1-3-1-04",
+        "nome": "RETORNO NOTAS FISCAIS DE ENTRADA",
+        "chamada": "1314"
+    },
+    {
+        "classificacao": "1-3-1-04-0001",
+        "nome": "RETORNO DE CONSIGNAÇÃO DE MERCADORIAS",
+        "chamada": "131401"
+    },
+    {
+        "classificacao": "1-3-1-04-0002",
+        "nome": "RETORNO DE BEM RECEBIDO EM COMODATO",
+        "chamada": "131402"
+    },
+    {
+        "classificacao": "1-3-1-04-0003",
+        "nome": "RETORNO DA ENTRADA DE BEM DE TERCEIRO",
+        "chamada": "131403"
+    },
+    {
+        "classificacao": "1-3-2",
+        "nome": "INCORPORAÇÃO",
+        "chamada": "132"
+    },
+    {
+        "classificacao": "1-3-2-01",
+        "nome": "INCORPORAÇÃO",
+        "chamada": "1321"
+    },
+    {
+        "classificacao": "1-3-2-01-0001",
+        "nome": "CONTA CORRENTE DE INCORPORAÇÃO",
+        "chamada": "132101"
+    },
+    {
+        "classificacao": "2",
+        "nome": "PASSIVO",
+        "chamada": "2"
+    },
+    {
+        "classificacao": "2-1",
+        "nome": "PASSIVO CIRCULANTE",
+        "chamada": "21"
+    },
+    {
+        "classificacao": "2-1-1",
+        "nome": "OBRIGAÇÕES DO CIRCULANTE",
+        "chamada": "211"
+    },
+    {
+        "classificacao": "2-1-1-01",
+        "nome": "BENEFÍCIOS E ENCARGOS SOCIAIS",
+        "chamada": "2111"
+    },
+    {
+        "classificacao": "2-1-1-01-0001",
+        "nome": "SALÁRIOS E REMUNERAÇÕES A PAGAR",
+        "chamada": "211101"
+    },
+    {
+        "classificacao": "2-1-1-01-0002",
+        "nome": "PARTICIPAÇÕES NO RESULTADO A PAGAR",
+        "chamada": "211102"
+    },
+    {
+        "classificacao": "2-1-1-01-0003",
+        "nome": "INSS A RECOLHER",
+        "chamada": "211103"
+    },
+    {
+        "classificacao": "2-1-1-01-0004",
+        "nome": "FGTS A RECOLHER",
+        "chamada": "211104"
+    },
+    {
+        "classificacao": "2-1-1-01-0005",
+        "nome": "BENEFÍCIOS NÃO MONETÁRIOS",
+        "chamada": "211105"
+    },
+    {
+        "classificacao": "2-1-1-01-0006",
+        "nome": "BENEFÍCIOS PÓS-EMPREGOS",
+        "chamada": "211106"
+    },
+    {
+        "classificacao": "2-1-1-01-0007",
+        "nome": "OUTROS BENEFÍCIOS DE CURTO PRAZO",
+        "chamada": "211107"
+    },
+    {
+        "classificacao": "2-1-1-01-0008",
+        "nome": "BENEFÍCIOS RESCISÓRIOS",
+        "chamada": "211108"
+    },
+    {
+        "classificacao": "2-1-1-01-0009",
+        "nome": "DEMAIS ENCARGOS A RECOLHER",
+        "chamada": "211109"
+    },
+    {
+        "classificacao": "2-1-1-01-0010",
+        "nome": "RESCISÕES A PAGAR",
+        "chamada": "211110"
+    },
+    {
+        "classificacao": "2-1-1-01-0011",
+        "nome": "FÉRIAS A PAGAR",
+        "chamada": "211111"
+    },
+    {
+        "classificacao": "2-1-1-01-0012",
+        "nome": "13º SALÁRIO A PAGAR",
+        "chamada": "211112"
+    },
+    {
+        "classificacao": "2-1-1-01-0013",
+        "nome": "COMISSÕES A PAGAR",
+        "chamada": "211113"
+    },
+    {
+        "classificacao": "2-1-1-02",
+        "nome": "FORNECEDORES",
+        "chamada": "2112"
+    },
+    {
+        "classificacao": "2-1-1-02-0001",
+        "nome": "FORNECEDORES - NO PAÍS",
+        "chamada": "211201"
+    },
+    {
+        "classificacao": "2-1-1-02-0002",
+        "nome": "FORNECEDORES - NO EXTERIOR",
+        "chamada": "211202"
+    },
+    {
+        "classificacao": "2-1-1-03",
+        "nome": "CONTAS A PAGAR",
+        "chamada": "2113"
+    },
+    {
+        "classificacao": "2-1-1-03-0001",
+        "nome": "ADIANTAMENTO DE CLIENTES - NO PAÍS",
+        "chamada": "211301"
+    },
+    {
+        "classificacao": "2-1-1-03-0002",
+        "nome": "ADIANTAMENTO DE CLIENTES - NO EXTERIOR",
+        "chamada": "211302"
+    },
+    {
+        "classificacao": "2-1-1-03-0003",
+        "nome": "RESTITUIÇÃO DE CLIENTES - NO PAÍS",
+        "chamada": "211303"
+    },
+    {
+        "classificacao": "2-1-1-03-0004",
+        "nome": "RESTITUIÇÃO DE CLIENTES - NO EXTERIOR",
+        "chamada": "211304"
+    },
+    {
+        "classificacao": "2-1-1-03-0005",
+        "nome": "ADIANTAMENTO DIVERSOS",
+        "chamada": "211305"
+    },
+    {
+        "classificacao": "2-1-1-04",
+        "nome": "EMPRÉSTIMOS OU FINANCIAMENTOS",
+        "chamada": "2114"
+    },
+    {
+        "classificacao": "2-1-1-04-0001",
+        "nome": "DUPLICATAS DESCONTADAS",
+        "chamada": "211401"
+    },
+    {
+        "classificacao": "2-1-1-04-0002",
+        "nome": "EMPRÉSTIMOS OU FINANCIAMENTOS - NO PAÍS",
+        "chamada": "211402"
+    },
+    {
+        "classificacao": "2-1-1-04-0003",
+        "nome": "EMPRÉSTIMOS OU FINANCIAMENTOS - NO EXTERIOR",
+        "chamada": "211403"
+    },
+    {
+        "classificacao": "2-1-1-04-0004",
+        "nome": "ADIANTAMENTOS DE CONTRATO DE CÂMBIO",
+        "chamada": "211404"
+    },
+    {
+        "classificacao": "2-1-1-04-0005",
+        "nome": "ARRENDAMENTO MERCANTIL - NO PAÍS",
+        "chamada": "211405"
+    },
+    {
+        "classificacao": "2-1-1-04-0006",
+        "nome": "ARRENDAMENTO MERCANTIL - NO EXTERIOR",
+        "chamada": "211406"
+    },
+    {
+        "classificacao": "2-1-1-04-0007",
+        "nome": "EMPRÉSTIMO BANCO ITAÚ",
+        "chamada": "211407"
+    },
+    {
+        "classificacao": "2-1-1-04-0008",
+        "nome": "EMPRÉSTIMO BANCO BRADESCO",
+        "chamada": "211408"
+    },
+    {
+        "classificacao": "2-1-1-04-0009",
+        "nome": "EMPRÉSTIMO BANCO DO BRASIL",
+        "chamada": "211409"
+    },
+    {
+        "classificacao": "2-1-1-04-0010",
+        "nome": "EMPRÉSTIMO BANCO SANTANDER",
+        "chamada": "211410"
+    },
+    {
+        "classificacao": "2-1-1-04-0011",
+        "nome": "EMPRÉSTIMO BANCO HSBC",
+        "chamada": "211411"
+    },
+    {
+        "classificacao": "2-1-1-04-0012",
+        "nome": "EMPRÉSTIMO BANCO CITIBANK",
+        "chamada": "211412"
+    },
+    {
+        "classificacao": "2-1-1-04-0013",
+        "nome": "EMPRÉSTIMO BANCO SAFRA",
+        "chamada": "211413"
+    },
+    {
+        "classificacao": "2-1-1-04-0014",
+        "nome": "EMPRÉSTIMO BANCO CAIXA ECONÔMICA",
+        "chamada": "211414"
+    },
+    {
+        "classificacao": "2-1-1-05",
+        "nome": "OBRIGAÇÕES FISCAIS",
+        "chamada": "2115"
+    },
+    {
+        "classificacao": "2-1-1-05-0001",
+        "nome": "IRRF A RECOLHER",
+        "chamada": "211501"
+    },
+    {
+        "classificacao": "2-1-1-05-0002",
+        "nome": "IPI A RECOLHER",
+        "chamada": "211502"
+    },
+    {
+        "classificacao": "2-1-1-05-0003",
+        "nome": "ICMS A RECOLHER",
+        "chamada": "211503"
+    },
+    {
+        "classificacao": "2-1-1-05-0004",
+        "nome": "ICMS A RECOLHER - FILIAL 1",
+        "chamada": "211504"
+    },
+    {
+        "classificacao": "2-1-1-05-0005",
+        "nome": "ICMS A RECOLHER - FILIAL 2",
+        "chamada": "211505"
+    },
+    {
+        "classificacao": "2-1-1-05-0006",
+        "nome": "PIS A RECOLHER",
+        "chamada": "211506"
+    },
+    {
+        "classificacao": "2-1-1-05-0007",
+        "nome": "COFINS A RECOLHER",
+        "chamada": "211507"
+    },
+    {
+        "classificacao": "2-1-1-05-0008",
+        "nome": "IOF A RECOLHER",
+        "chamada": "211508"
+    },
+    {
+        "classificacao": "2-1-1-05-0009",
+        "nome": "CIDE A RECOLHER",
+        "chamada": "211509"
+    },
+    {
+        "classificacao": "2-1-1-05-0010",
+        "nome": "TRIBUTOS MUNICIPAIS A RECOLHER",
+        "chamada": "211510"
+    },
+    {
+        "classificacao": "2-1-1-05-0011",
+        "nome": "PARCELAMENTO ESPECIAIS A RECOLHER - FEDERAIS",
+        "chamada": "211511"
+    },
+    {
+        "classificacao": "2-1-1-05-0012",
+        "nome": "PARCELAMENTO ESPECIAIS A RECOLHER - ESTADUAIS",
+        "chamada": "211512"
+    },
+    {
+        "classificacao": "2-1-1-05-0013",
+        "nome": "PARCELAMENTO ESPECIAIS A RECOLHER - MUNICIPAIS",
+        "chamada": "211513"
+    },
+    {
+        "classificacao": "2-1-1-05-0014",
+        "nome": "CONTRIBUIÇÕES A RECOLHER - DESONERAÇÃO DA FOLHA",
+        "chamada": "211514"
+    },
+    {
+        "classificacao": "2-1-1-05-0015",
+        "nome": "IRPJ A RECOLHER",
+        "chamada": "211515"
+    },
+    {
+        "classificacao": "2-1-1-05-0016",
+        "nome": "CSLL A RECOLHER",
+        "chamada": "211516"
+    },
+    {
+        "classificacao": "2-1-1-05-0017",
+        "nome": "SIMPLES A RECOLHER",
+        "chamada": "211517"
+    },
+    {
+        "classificacao": "2-1-1-05-0018",
+        "nome": "ISS A RECOLHER",
+        "chamada": "211518"
+    },
+    {
+        "classificacao": "2-1-1-05-0019",
+        "nome": "ISS RETIDO A RECOLHER",
+        "chamada": "211519"
+    },
+    {
+        "classificacao": "2-1-1-05-0020",
+        "nome": "IRPJ RETIDO A RECOLHER",
+        "chamada": "211520"
+    },
+    {
+        "classificacao": "2-1-1-05-0021",
+        "nome": "IRRF S/ALUGUEL",
+        "chamada": "211521"
+    },
+    {
+        "classificacao": "2-1-1-05-0022",
+        "nome": "PIS/COFINS/CSLL RETIDO A RECOLHER",
+        "chamada": "211522"
+    },
+    {
+        "classificacao": "2-1-1-05-0023",
+        "nome": "IRPJ PARCELAMENTO",
+        "chamada": "211523"
+    },
+    {
+        "classificacao": "2-1-1-05-0024",
+        "nome": "CSLL PARCELAMENTO",
+        "chamada": "211524"
+    },
+    {
+        "classificacao": "2-1-1-05-0025",
+        "nome": "PIS PARCELAMENTO",
+        "chamada": "211525"
+    },
+    {
+        "classificacao": "2-1-1-05-0026",
+        "nome": "COFINS PARCELAMENTO",
+        "chamada": "211526"
+    },
+    {
+        "classificacao": "2-1-1-05-0027",
+        "nome": "IPI PARCELAMENTO",
+        "chamada": "211527"
+    },
+    {
+        "classificacao": "2-1-1-05-0028",
+        "nome": "ISS PARCELAMENTO",
+        "chamada": "211528"
+    },
+    {
+        "classificacao": "2-1-1-05-0029",
+        "nome": "ICMS PARCELAMENTO",
+        "chamada": "211529"
+    },
+    {
+        "classificacao": "2-1-1-05-0030",
+        "nome": "INSS PARCELAMENTO",
+        "chamada": "211530"
+    },
+    {
+        "classificacao": "2-1-1-05-0031",
+        "nome": "FGTS PARCELAMENTO",
+        "chamada": "211531"
+    },
+    {
+        "classificacao": "2-1-1-05-0032",
+        "nome": "INSS RETIDO A RECOLHER",
+        "chamada": "211532"
+    },
+    {
+        "classificacao": "2-1-1-05-0033",
+        "nome": "PARCELAMENTO DO SIMPLES",
+        "chamada": "211533"
+    },
+    {
+        "classificacao": "2-1-1-05-0034",
+        "nome": "ICMS FECP",
+        "chamada": "211534"
+    },
+    {
+        "classificacao": "2-1-1-05-0035",
+        "nome": "IRRF S/FOLHA DE PAGAMENTO",
+        "chamada": "211535"
+    },
+    {
+        "classificacao": "2-1-1-05-0036",
+        "nome": "ICMS A RECOLHER - FILIAL 3",
+        "chamada": "211536"
+    },
+    {
+        "classificacao": "2-1-1-05-0037",
+        "nome": "PARCELAMENTO PGFN A RECOLHER",
+        "chamada": "211537"
+    },
+    {
+        "classificacao": "2-1-1-05-0038",
+        "nome": "ISS RETIDO S/AUTONOMO",
+        "chamada": "211538"
+    },
+    {
+        "classificacao": "2-1-1-06",
+        "nome": "TÍTULOS DE DÍVIDA",
+        "chamada": "2116"
+    },
+    {
+        "classificacao": "2-1-1-06-0001",
+        "nome": "DEBÊNTURES A PAGAR",
+        "chamada": "211601"
+    },
+    {
+        "classificacao": "2-1-1-06-0002",
+        "nome": "PRÊMIO NA EMISSÃO DE DEBÊNTURES",
+        "chamada": "211602"
+    },
+    {
+        "classificacao": "2-1-1-06-0003",
+        "nome": "NOTAS PROMISSÓRIAS A PAGAR",
+        "chamada": "211603"
+    },
+    {
+        "classificacao": "2-1-1-06-0004",
+        "nome": "BONDS A PAGAR",
+        "chamada": "211604"
+    },
+    {
+        "classificacao": "2-1-1-07",
+        "nome": "PROVISÕES",
+        "chamada": "2117"
+    },
+    {
+        "classificacao": "2-1-1-07-0001",
+        "nome": "PROVISÃO P/ IMPOSTO DE RENDA",
+        "chamada": "211701"
+    },
+    {
+        "classificacao": "2-1-1-07-0002",
+        "nome": "PROVISÃO P/ CONTRIBUIÇÃO SOCIAL S/ LUCRO LÍQUIDO",
+        "chamada": "211702"
+    },
+    {
+        "classificacao": "2-1-1-07-9999",
+        "nome": "OUTRAS PROVISÕES",
+        "chamada": "211799"
+    },
+    {
+        "classificacao": "2-1-1-08",
+        "nome": "OUTRAS OBRIGAÇÕES",
+        "chamada": "2118"
+    },
+    {
+        "classificacao": "2-1-1-08-0001",
+        "nome": "MÚTUOS - PARTES NÃO RELACIONADAS - NO PAÍS",
+        "chamada": "211801"
+    },
+    {
+        "classificacao": "2-1-1-08-0002",
+        "nome": "MÚTUOS - PARTES NÃO RELACIONADAS - NO EXTERIOR",
+        "chamada": "211802"
+    },
+    {
+        "classificacao": "2-1-1-08-0003",
+        "nome": "MÚTUOS - PARTES RELACIONADAS - NO PAÍS",
+        "chamada": "211803"
+    },
+    {
+        "classificacao": "2-1-1-08-0004",
+        "nome": "MÚTUOS - PARTES RELACIONADAS - NO EXTERIOR",
+        "chamada": "211804"
+    },
+    {
+        "classificacao": "2-1-1-08-0005",
+        "nome": "EMPRÉSTIMO DE SÓCIOS",
+        "chamada": "211805"
+    },
+    {
+        "classificacao": "2-1-1-08-0006",
+        "nome": "CONTRAPRESTAÇÃO CONTIGENTE PASSIVA",
+        "chamada": "211806"
+    },
+    {
+        "classificacao": "2-1-1-08-0007",
+        "nome": "PASSIVO CONTIGENTE ASSUMIDO COMBINAÇÃO DE NEGÓCIOS",
+        "chamada": "211807"
+    },
+    {
+        "classificacao": "2-1-1-08-0008",
+        "nome": "FATURAMENTO PARA ENTREGA FUTURA",
+        "chamada": "211808"
+    },
+    {
+        "classificacao": "2-1-1-08-0009",
+        "nome": "JUROS SOBRE O CAPITAL PRÓPRIO A PAGAR",
+        "chamada": "211809"
+    },
+    {
+        "classificacao": "2-1-1-08-0010",
+        "nome": "DIVIDENDOS A PAGAR",
+        "chamada": "211810"
+    },
+    {
+        "classificacao": "2-1-1-08-0011",
+        "nome": "CONTA DE CONTROLE DE CUSTO CONTRATADO",
+        "chamada": "211811"
+    },
+    {
+        "classificacao": "2-1-1-08-0012",
+        "nome": "CONTA DE CONTROLE DE CUSTO ORÇADO",
+        "chamada": "211812"
+    },
+    {
+        "classificacao": "2-1-1-08-0013",
+        "nome": "CONTAS A PAGAR",
+        "chamada": "211813"
+    },
+    {
+        "classificacao": "2-1-1-08-0014",
+        "nome": "DIREITOS CREDITÓRIOS A PAGAR",
+        "chamada": "211814"
+    },
+    {
+        "classificacao": "2-1-1-08-0015",
+        "nome": "SERVIÇO PRESTADO PESSOA FÍSICA A PAGAR",
+        "chamada": "211815"
+    },
+    {
+        "classificacao": "2-1-1-08-0016",
+        "nome": "SERVIÇO PRESTADO PESSOA JURÍDICA A PAGAR",
+        "chamada": "211816"
+    },
+    {
+        "classificacao": "2-1-1-08-0017",
+        "nome": "HONORÁRIOS CONTÁBEIS A PAGAR",
+        "chamada": "211817"
+    },
+    {
+        "classificacao": "2-1-1-08-0018",
+        "nome": "CONSÓRCIO A PAGAR",
+        "chamada": "211818"
+    },
+    {
+        "classificacao": "2-1-1-08-0019",
+        "nome": "PRO-LABORE A PAGAR",
+        "chamada": "211819"
+    },
+    {
+        "classificacao": "2-1-1-08-0020",
+        "nome": "CONTRIBUIÇÃO SINDICAL A PAGAR",
+        "chamada": "211820"
+    },
+    {
+        "classificacao": "2-1-1-08-0021",
+        "nome": "PENSÃO ALIMENTÍCIA A PAGAR",
+        "chamada": "211821"
+    },
+    {
+        "classificacao": "2-1-1-08-0022",
+        "nome": "CARTÕES DE CRÉDITO",
+        "chamada": "211822"
+    },
+    {
+        "classificacao": "2-1-1-08-0023",
+        "nome": "REEMBOLSO ADMINISTRATIVO",
+        "chamada": "211823"
+    },
+    {
+        "classificacao": "2-1-1-08-0024",
+        "nome": "ALUGUEIS A PAGAR",
+        "chamada": "211824"
+    },
+    {
+        "classificacao": "2-1-1-08-0025",
+        "nome": "CONTRIBUIÇÃO ASSISTENCIAL",
+        "chamada": "211825"
+    },
+    {
+        "classificacao": "2-1-1-08-0026",
+        "nome": "EMPRÉSTIMO DE DIRETORES",
+        "chamada": "211826"
+    },
+    {
+        "classificacao": "2-1-1-08-0027",
+        "nome": "REPASSE DE LOCAÇÃO",
+        "chamada": "211827"
+    },
+    {
+        "classificacao": "2-1-1-08-0028",
+        "nome": "PRECATÓRIOS FEDERAIS A PAGAR",
+        "chamada": "211828"
+    },
+    {
+        "classificacao": "2-1-1-08-0029",
+        "nome": "SEGUROS A PAGAR",
+        "chamada": "211829"
+    },
+    {
+        "classificacao": "2-1-1-08-0030",
+        "nome": "CONTRIBUIÇÃO PARTICIPATIVA",
+        "chamada": "211830"
+    },
+    {
+        "classificacao": "2-1-1-08-0031",
+        "nome": "ARMOSIA ITÁLIA",
+        "chamada": "211831"
+    },
+    {
+        "classificacao": "2-1-1-08-9999",
+        "nome": "OUTRAS OBRIGAÇÕES",
+        "chamada": "211899"
+    },
+    {
+        "classificacao": "2-2",
+        "nome": "PASSIVO NÃO-CIRCULANTE",
+        "chamada": "22"
+    },
+    {
+        "classificacao": "2-2-1",
+        "nome": "OBRIGAÇÕES LONGO PRAZO",
+        "chamada": "221"
+    },
+    {
+        "classificacao": "2-2-1-01",
+        "nome": "EMPRÉSTIMOS E FINANCIAMENTOS",
+        "chamada": "2211"
+    },
+    {
+        "classificacao": "2-2-1-01-0001",
+        "nome": "FORNECEDORES - NO PAÍS",
+        "chamada": "221101"
+    },
+    {
+        "classificacao": "2-2-1-01-0002",
+        "nome": "FORNECEDORES - NO EXTERIOR",
+        "chamada": "221102"
+    },
+    {
+        "classificacao": "2-2-1-01-0003",
+        "nome": "CREDORES POR FINANCIAMENTO",
+        "chamada": "221103"
+    },
+    {
+        "classificacao": "2-2-1-01-0004",
+        "nome": "TÍTULOS A PAGAR",
+        "chamada": "221104"
+    },
+    {
+        "classificacao": "2-2-1-01-0005",
+        "nome": "DUPLICATAS DESCONTADAS",
+        "chamada": "221105"
+    },
+    {
+        "classificacao": "2-2-1-01-0006",
+        "nome": "EMPRÉSTIMOS OU FINANCIAMENTOS - NO PAÍS",
+        "chamada": "221106"
+    },
+    {
+        "classificacao": "2-2-1-01-0007",
+        "nome": "EMPRÉSTIMOS OU FINANCIAMENTOS - NO EXTERIOR",
+        "chamada": "221107"
+    },
+    {
+        "classificacao": "2-2-1-01-0008",
+        "nome": "ADIANTAMENTOS DE CONTRATO DE CÂMBIO",
+        "chamada": "221108"
+    },
+    {
+        "classificacao": "2-2-1-01-0009",
+        "nome": "ARRENDAMENTO MERCANTIL - NO PAÍS",
+        "chamada": "221109"
+    },
+    {
+        "classificacao": "2-2-1-01-0010",
+        "nome": "ARRENDAMENTO MERCANTIL - NO EXTERIOR",
+        "chamada": "221110"
+    },
+    {
+        "classificacao": "2-2-1-01-0011",
+        "nome": "FINANCIAMENTO BNDES",
+        "chamada": "221111"
+    },
+    {
+        "classificacao": "2-2-1-02",
+        "nome": "OBRIGAÇÕES FISCAIS",
+        "chamada": "2212"
+    },
+    {
+        "classificacao": "2-2-1-02-0001",
+        "nome": "PARCELAMENTOS ESPECIAIS E ORDINÁRIOS - FEDERAIS",
+        "chamada": "221201"
+    },
+    {
+        "classificacao": "2-2-1-02-0002",
+        "nome": "PARCELAMENTOS ESPECIAIS E ORDINÁROS - MUNICIPAIS",
+        "chamada": "221202"
+    },
+    {
+        "classificacao": "2-2-1-02-0003",
+        "nome": "PIS PARCELAMENTO",
+        "chamada": "221203"
+    },
+    {
+        "classificacao": "2-2-1-02-0004",
+        "nome": "COFINS PARCELAMENTO",
+        "chamada": "221204"
+    },
+    {
+        "classificacao": "2-2-1-02-0005",
+        "nome": "CSLL PARCELAMENTO",
+        "chamada": "221205"
+    },
+    {
+        "classificacao": "2-2-1-02-0006",
+        "nome": "IRPJ PARCELAMENTO",
+        "chamada": "221206"
+    },
+    {
+        "classificacao": "2-2-1-02-0007",
+        "nome": "IPI PARCELAMENTO",
+        "chamada": "221207"
+    },
+    {
+        "classificacao": "2-2-1-02-0008",
+        "nome": "ICMS PARCELAMENTO",
+        "chamada": "221208"
+    },
+    {
+        "classificacao": "2-2-1-02-0009",
+        "nome": "ISS PARCELAMENTO",
+        "chamada": "221209"
+    },
+    {
+        "classificacao": "2-2-1-02-0010",
+        "nome": "IPTU PARCELAMENTO",
+        "chamada": "221210"
+    },
+    {
+        "classificacao": "2-2-1-02-0011",
+        "nome": "SIMPLES PARCELAMENTO",
+        "chamada": "221211"
+    },
+    {
+        "classificacao": "2-2-1-02-0012",
+        "nome": "INSS PARCELAMENTO",
+        "chamada": "221212"
+    },
+    {
+        "classificacao": "2-2-1-02-0013",
+        "nome": "FGTS PARCELAMENTO",
+        "chamada": "221213"
+    },
+    {
+        "classificacao": "2-2-1-02-0014",
+        "nome": "PARCELAMENTO PGFN A RECOLHER - LP",
+        "chamada": "221214"
+    },
+    {
+        "classificacao": "2-2-1-02-9999",
+        "nome": "OUTROS TRIBUTOS A RECOLHER",
+        "chamada": "221299"
+    },
+    {
+        "classificacao": "2-2-1-03",
+        "nome": "TÍTULOS DE DÍVIDA",
+        "chamada": "2213"
+    },
+    {
+        "classificacao": "2-2-1-03-0001",
+        "nome": "DEBÊNTURES A PAGAR",
+        "chamada": "221301"
+    },
+    {
+        "classificacao": "2-2-1-03-0002",
+        "nome": "PRÊMIO NA EMISSÃO DE DEBÊNTURES",
+        "chamada": "221302"
+    },
+    {
+        "classificacao": "2-2-1-03-0003",
+        "nome": "NOTAS PROMISSÓRIAS A PAGAR",
+        "chamada": "221303"
+    },
+    {
+        "classificacao": "2-2-1-03-0004",
+        "nome": "BONDS A PAGAR",
+        "chamada": "221304"
+    },
+    {
+        "classificacao": "2-2-1-03-0005",
+        "nome": "CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS (CRI)",
+        "chamada": "221305"
+    },
+    {
+        "classificacao": "2-2-1-04",
+        "nome": "PROVISÕES",
+        "chamada": "2214"
+    },
+    {
+        "classificacao": "2-2-1-04-0001",
+        "nome": "PROVISÕES DE NATUREZA TRABALHISTA",
+        "chamada": "221401"
+    },
+    {
+        "classificacao": "2-2-1-04-0002",
+        "nome": "PROVISÕES DE NATUREZA TRIBUTÁRIA",
+        "chamada": "221402"
+    },
+    {
+        "classificacao": "2-2-1-04-0003",
+        "nome": "PROVISÕES DE NATUREZA CÍVEL",
+        "chamada": "221403"
+    },
+    {
+        "classificacao": "2-2-1-04-0004",
+        "nome": "PROVISÃO P/ IMPOSTO DE RENDA PJ - DIFERIDO",
+        "chamada": "221404"
+    },
+    {
+        "classificacao": "2-2-1-04-0005",
+        "nome": "PROVISÃO P/ CONTRIBUIÇÃO SOCIAL PJ - DIFERIDO",
+        "chamada": "221405"
+    },
+    {
+        "classificacao": "2-2-1-04-9999",
+        "nome": "OUTRAS PROVISÕES",
+        "chamada": "221499"
+    },
+    {
+        "classificacao": "2-2-1-05",
+        "nome": "OUTRAS OBRIGAÇÕES",
+        "chamada": "2215"
+    },
+    {
+        "classificacao": "2-2-1-05-0001",
+        "nome": "MÚTUOS - PARTES NÃO RELACIONADAS NO PAÍS",
+        "chamada": "221501"
+    },
+    {
+        "classificacao": "2-2-1-05-0002",
+        "nome": "MÚTUOS - PARTES NÃO RELACIONADAS NO EXTERIOR",
+        "chamada": "221502"
+    },
+    {
+        "classificacao": "2-2-1-05-0003",
+        "nome": "MÚTUOS - PARTES RELACIONADAS NO PAÍS",
+        "chamada": "221503"
+    },
+    {
+        "classificacao": "2-2-1-05-0004",
+        "nome": "MÚTUOS - PARTES RELACIONADAS NO EXTERIOR",
+        "chamada": "221504"
+    },
+    {
+        "classificacao": "2-2-1-05-0005",
+        "nome": "ADIANTAMENTO P/FUTURO AUMENTO DE CAPITAL",
+        "chamada": "221505"
+    },
+    {
+        "classificacao": "2-2-1-05-0006",
+        "nome": "CONTA DE CONTROLE DE CUSTOS CONTRATADO",
+        "chamada": "221506"
+    },
+    {
+        "classificacao": "2-2-1-05-0007",
+        "nome": "CONTA DE CONTROLE DE CUSTO ORÇADO",
+        "chamada": "221507"
+    },
+    {
+        "classificacao": "2-2-1-05-0008",
+        "nome": "EMPRÉSTIMO DE SÓCIOS",
+        "chamada": "221508"
+    },
+    {
+        "classificacao": "2-2-1-05-0009",
+        "nome": "MATRIZ",
+        "chamada": "221509"
+    },
+    {
+        "classificacao": "2-2-1-05-0010",
+        "nome": "FILIAL 1",
+        "chamada": "221510"
+    },
+    {
+        "classificacao": "2-2-1-05-0011",
+        "nome": "FILIAL 2",
+        "chamada": "221511"
+    },
+    {
+        "classificacao": "2-2-1-05-0012",
+        "nome": "CARTÕES DE CRÉDITO",
+        "chamada": "221512"
+    },
+    {
+        "classificacao": "2-2-1-05-0013",
+        "nome": "FILIAL 3",
+        "chamada": "221513"
+    },
+    {
+        "classificacao": "2-2-1-05-0014",
+        "nome": "TRANSFERÊNCIA DE MERCADORIA",
+        "chamada": "221514"
+    },
+    {
+        "classificacao": "2-2-1-05-0015",
+        "nome": "ESTOQUE DE TERCEIROS EM NOSSO PODER",
+        "chamada": "221515"
+    },
+    {
+        "classificacao": "2-2-1-05-9999",
+        "nome": "OUTRAS OBRIGAÇÕES",
+        "chamada": "221599"
+    },
+    {
+        "classificacao": "2-2-1-09",
+        "nome": "CONTAS DE COMPENSAÇÃO DO PASSIVO",
+        "chamada": "2219"
+    },
+    {
+        "classificacao": "2-2-1-09-0001",
+        "nome": "REMESSA EM CONSIGNAÇÃO",
+        "chamada": "221901"
+    },
+    {
+        "classificacao": "2-3",
+        "nome": "PATRIMÔNIO LÍQUIDO",
+        "chamada": "23"
+    },
+    {
+        "classificacao": "2-3-1",
+        "nome": "CAPITAL SOCIAL",
+        "chamada": "231"
+    },
+    {
+        "classificacao": "2-3-1-01",
+        "nome": "CAPITAL REALIZADO - DE RESIDENTES NO PAÍS",
+        "chamada": "2311"
+    },
+    {
+        "classificacao": "2-3-1-01-0001",
+        "nome": "CAPITAL REALIZADO",
+        "chamada": "231101"
+    },
+    {
+        "classificacao": "2-3-1-01-0002",
+        "nome": "(-) CAPITAL A INTEGRALIZAR",
+        "chamada": "231102"
+    },
+    {
+        "classificacao": "2-3-1-02",
+        "nome": "CAPITAL REALIZADO - DE NÃO RESIDENTES NO PAÍS",
+        "chamada": "2312"
+    },
+    {
+        "classificacao": "2-3-1-02-0001",
+        "nome": "CAPITAL REALIZADO",
+        "chamada": "231201"
+    },
+    {
+        "classificacao": "2-3-1-02-0002",
+        "nome": "(-) CAPITAL A INTEGRAIZAR RESIDENTES NO EXTERIOR",
+        "chamada": "231202"
+    },
+    {
+        "classificacao": "2-3-1-03",
+        "nome": "GASTOS COM EMISSÕES DE TÍTULOS PATRIMONIAIS",
+        "chamada": "2313"
+    },
+    {
+        "classificacao": "2-3-1-03-0001",
+        "nome": "(-) GASTOS COM EMISSÕES DE AÇÕES",
+        "chamada": "231301"
+    },
+    {
+        "classificacao": "2-3-2",
+        "nome": "RESERVAS",
+        "chamada": "232"
+    },
+    {
+        "classificacao": "2-3-2-01",
+        "nome": "RESERVAS DE CAPITAL",
+        "chamada": "2321"
+    },
+    {
+        "classificacao": "2-3-2-01-0001",
+        "nome": "ÁGIO NA EMISSÃO DE AÇÕES",
+        "chamada": "232101"
+    },
+    {
+        "classificacao": "2-3-2-01-0002",
+        "nome": "RESERVA ESPECIAL DE ÁGIO NA INCORPORAÇÃO",
+        "chamada": "232102"
+    },
+    {
+        "classificacao": "2-3-2-01-0003",
+        "nome": "ALIENAÇÃO BENEFICIÁRIAS E BÔNUS DE SUBSCRIÇÃO",
+        "chamada": "232103"
+    },
+    {
+        "classificacao": "2-3-2-01-0004",
+        "nome": "DOAÇÃO E SUBVENÇÕES P/INVESTIMENTOS",
+        "chamada": "232104"
+    },
+    {
+        "classificacao": "2-3-2-01-0005",
+        "nome": "PRÊMIO RECEBIDO NA EMISSÃO DE DEBÊNTURES",
+        "chamada": "232105"
+    },
+    {
+        "classificacao": "2-3-2-01-9999",
+        "nome": "OUTRAS RESERVAS DE CAPITAL",
+        "chamada": "232199"
+    },
+    {
+        "classificacao": "2-3-2-02",
+        "nome": "RESERVAS DE REAVALIAÇÃO",
+        "chamada": "2322"
+    },
+    {
+        "classificacao": "2-3-2-02-0001",
+        "nome": "REAVALIAÇÃO DE ATIVOS PRÓPRIOS",
+        "chamada": "232201"
+    },
+    {
+        "classificacao": "2-3-2-02-0002",
+        "nome": "REAVALIAÇÃO DE ATIVOS EM COLIGADAS/CONTROLADAS",
+        "chamada": "232202"
+    },
+    {
+        "classificacao": "2-3-2-03",
+        "nome": "RESERVAS DE LUCRO",
+        "chamada": "2323"
+    },
+    {
+        "classificacao": "2-3-2-03-0001",
+        "nome": "RESERVA LEGAL",
+        "chamada": "232301"
+    },
+    {
+        "classificacao": "2-3-2-03-0002",
+        "nome": "RESERVA ESTATUTÁRIA",
+        "chamada": "232302"
+    },
+    {
+        "classificacao": "2-3-2-03-0003",
+        "nome": "RESERVA PARA CONTINGÊNCIA",
+        "chamada": "232303"
+    },
+    {
+        "classificacao": "2-3-2-03-0004",
+        "nome": "RESERVA DE INCENTIVOS FISCAIS",
+        "chamada": "232304"
+    },
+    {
+        "classificacao": "2-3-2-03-0005",
+        "nome": "RESERVA DE LUCROS PARA EXPANSÃO",
+        "chamada": "232305"
+    },
+    {
+        "classificacao": "2-3-2-03-0006",
+        "nome": "RESERVA DE LUCROS A REALIZAR",
+        "chamada": "232306"
+    },
+    {
+        "classificacao": "2-3-2-03-0007",
+        "nome": "RESERVA ESPECIAL P/ DIVIDENDOS OBRIGATÓRIO",
+        "chamada": "232307"
+    },
+    {
+        "classificacao": "2-3-2-03-0008",
+        "nome": "RESERVA DE PRÊMIO NA EMISSÃO DE DEBÊNTURES",
+        "chamada": "232308"
+    },
+    {
+        "classificacao": "2-3-2-03-0009",
+        "nome": "RESERVA PARA AUMENTO DE CAPITAL",
+        "chamada": "232309"
+    },
+    {
+        "classificacao": "2-3-2-03-0010",
+        "nome": "RESERVA DE CAPITAL",
+        "chamada": "232310"
+    },
+    {
+        "classificacao": "2-3-2-03-0011",
+        "nome": "RESERVA DE LUCRO",
+        "chamada": "232311"
+    },
+    {
+        "classificacao": "2-3-2-03-9999",
+        "nome": "OUTRAS RESERVAS DE LUCRO",
+        "chamada": "232399"
+    },
+    {
+        "classificacao": "2-3-3",
+        "nome": "AJUSTES DE AVALIAÇÃO PATRIMONIAL",
+        "chamada": "233"
+    },
+    {
+        "classificacao": "2-3-3-01",
+        "nome": "AJUSTES DE AVALIAÇÃO PATRIMONIAL",
+        "chamada": "2331"
+    },
+    {
+        "classificacao": "2-3-3-01-0001",
+        "nome": "AJUSTES ATIVOS FINANCEIROS DISPONÍVEIS PARA VENDAS",
+        "chamada": "233101"
+    },
+    {
+        "classificacao": "2-3-3-01-0002",
+        "nome": "DIFERENÇA POSITIVA ATIVO IMOB P/INVESTIMENTO",
+        "chamada": "233102"
+    },
+    {
+        "classificacao": "2-3-3-01-0003",
+        "nome": "AJUSTE DOS PLANOS DE BENEFÍCIOS A EMPREGADOS",
+        "chamada": "233103"
+    },
+    {
+        "classificacao": "2-3-3-01-0004",
+        "nome": "AJUSTE ATIVO IMOB PROPRIEDADES P/INVESTIMENTO",
+        "chamada": "233104"
+    },
+    {
+        "classificacao": "2-3-3-01-0005",
+        "nome": "AJUSTES ACUMULADOS DE CONVERSÃO",
+        "chamada": "233105"
+    },
+    {
+        "classificacao": "2-3-4",
+        "nome": "OUTRAS CONTAS DO PATRIMÔNIO LÍQUIDO",
+        "chamada": "234"
+    },
+    {
+        "classificacao": "2-3-4-01",
+        "nome": "OUTRAS CONTAS DO PATRIMÔNIO LÍQUIDO",
+        "chamada": "2341"
+    },
+    {
+        "classificacao": "2-3-4-01-0001",
+        "nome": "LUCROS ACUMULADOS E/OU SALDOS À DISPOSIÇÃO",
+        "chamada": "234101"
+    },
+    {
+        "classificacao": "2-3-4-01-0002",
+        "nome": "CONTRAPRESTAÇÃO CONTIGENTE",
+        "chamada": "234102"
+    },
+    {
+        "classificacao": "2-3-4-01-0003",
+        "nome": "AJUSTES DE EXERCÍCIOS ANTERIORES",
+        "chamada": "234103"
+    },
+    {
+        "classificacao": "2-3-4-01-0004",
+        "nome": "(-) PREJUÍZOS ACUMULADOS",
+        "chamada": "234104"
+    },
+    {
+        "classificacao": "2-3-4-01-0005",
+        "nome": "(-) AÇÕES EM TESOURARIA",
+        "chamada": "234105"
+    },
+    {
+        "classificacao": "2-3-4-01-0006",
+        "nome": "(-) TRANSAÇÕES DE CAPITAL",
+        "chamada": "234106"
+    },
+    {
+        "classificacao": "2-3-4-01-0007",
+        "nome": "CONTAS DO PATRIMÔNIO LÍQUIDO NÃO CLASSIFICADAS",
+        "chamada": "234107"
+    },
+    {
+        "classificacao": "2-3-4-01-0008",
+        "nome": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL",
+        "chamada": "234108"
+    },
+    {
+        "classificacao": "2-3-5",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "235"
+    },
+    {
+        "classificacao": "2-3-5-01",
+        "nome": "SUPERAVIT DO EXERCÍCIO",
+        "chamada": "2351"
+    },
+    {
+        "classificacao": "2-3-5-01-0001",
+        "nome": "SUPERAVIT DO EXERCÍCIO",
+        "chamada": "235101"
+    },
+    {
+        "classificacao": "2-3-5-01-0002",
+        "nome": "SUPERAVIT DOS EXERCÍCIOS ANTERIORES",
+        "chamada": "235102"
+    },
+    {
+        "classificacao": "2-3-5-02",
+        "nome": "(-) DEFICIT DO EXERCÍCIO",
+        "chamada": "2352"
+    },
+    {
+        "classificacao": "2-3-5-02-0001",
+        "nome": "(-) DEFICIT DO EXERCÍCIO",
+        "chamada": "235201"
+    },
+    {
+        "classificacao": "2-3-5-02-0002",
+        "nome": "(-) DEFICIT DOS EXERCÍCIOS ANTERIORES",
+        "chamada": "235202"
+    },
+    {
+        "classificacao": "2-4",
+        "nome": "COMPENSAÇÃO DO PASSIVO",
+        "chamada": "24"
+    },
+    {
+        "classificacao": "2-4-1",
+        "nome": "OUTROS DÉBITOS",
+        "chamada": "241"
+    },
+    {
+        "classificacao": "2-4-1-01",
+        "nome": "NOTAS FISCAIS ENTRADA POR TRANSFERÊNCIA",
+        "chamada": "2411"
+    },
+    {
+        "classificacao": "2-4-1-01-0001",
+        "nome": "RECEBIMENTO PARA INDUSTRIALIZAÇÃO",
+        "chamada": "241101"
+    },
+    {
+        "classificacao": "2-4-1-01-0002",
+        "nome": "RECEBIMENTO PARA DEMONSTRAÇÃO",
+        "chamada": "241102"
+    },
+    {
+        "classificacao": "2-4-1-01-0003",
+        "nome": "RECEBIMENTO PARA CONSERTO",
+        "chamada": "241103"
+    },
+    {
+        "classificacao": "2-4-1-01-0004",
+        "nome": "OUTRAS ENTRADAS",
+        "chamada": "241104"
+    },
+    {
+        "classificacao": "2-4-1-02",
+        "nome": "RETORNO NOTAS FISCAIS SAÍDA POR TRANSFERÊNCIA",
+        "chamada": "2412"
+    },
+    {
+        "classificacao": "2-4-1-02-0001",
+        "nome": "RETORNO REMESSA PARA INDUSTRIALIZAÇÃO",
+        "chamada": "241201"
+    },
+    {
+        "classificacao": "2-4-1-02-0002",
+        "nome": "RETORNO REMESSA PARA DEMONSTRAÇÃO",
+        "chamada": "241202"
+    },
+    {
+        "classificacao": "2-4-1-02-0003",
+        "nome": "RETORNO REMESSA PARA CONSERTO",
+        "chamada": "241203"
+    },
+    {
+        "classificacao": "2-4-1-02-0004",
+        "nome": "RETORNO OUTRAS REMESSAS",
+        "chamada": "241204"
+    },
+    {
+        "classificacao": "2-4-1-03",
+        "nome": "NOTAS FISCAIS DE ENTRADA",
+        "chamada": "2413"
+    },
+    {
+        "classificacao": "2-4-1-03-0001",
+        "nome": "CONSIGNAÇÃO DE MERCADORIAS",
+        "chamada": "241301"
+    },
+    {
+        "classificacao": "2-4-1-03-0002",
+        "nome": "BEM RECEBIDO EM COMODATO",
+        "chamada": "241302"
+    },
+    {
+        "classificacao": "2-4-1-03-0003",
+        "nome": "ENTRADA DE BEM DE TERCEIRO",
+        "chamada": "241303"
+    },
+    {
+        "classificacao": "2-4-1-04",
+        "nome": "RETORNO NOTAS FISCAIS DE SAÍDA",
+        "chamada": "2414"
+    },
+    {
+        "classificacao": "2-4-1-04-0001",
+        "nome": "RETORNO DE MERCADORIA DE CONSIGNAÇÃO",
+        "chamada": "241401"
+    },
+    {
+        "classificacao": "2-4-1-04-0002",
+        "nome": "RETORNO DE BEM EM COMODATO",
+        "chamada": "241402"
+    },
+    {
+        "classificacao": "2-4-1-04-0003",
+        "nome": "RETORNO DE BEM P/USO FORA DO ESTABELECIMENTO",
+        "chamada": "241403"
+    },
+    {
+        "classificacao": "2-4-2",
+        "nome": "INCORPORAÇÃO",
+        "chamada": "242"
+    },
+    {
+        "classificacao": "2-4-2-01",
+        "nome": "INCORPORAÇÃO",
+        "chamada": "2421"
+    },
+    {
+        "classificacao": "2-4-2-01-0001",
+        "nome": "CONTA CORRENTE DE INCORPORAÇÃO",
+        "chamada": "242101"
+    },
+    {
+        "classificacao": "4",
+        "nome": "CUSTOS",
+        "chamada": "4"
+    },
+    {
+        "classificacao": "4-1",
+        "nome": "CUSTOS",
+        "chamada": "41"
+    },
+    {
+        "classificacao": "4-1-1",
+        "nome": "CUSTOS DOS BENS E SERVIÇOS",
+        "chamada": "411"
+    },
+    {
+        "classificacao": "4-1-1-01",
+        "nome": "CUSTOS",
+        "chamada": "4111"
+    },
+    {
+        "classificacao": "4-1-1-01-0001",
+        "nome": "CUSTO DOS PRODUTOS DE FABRICAÇÃO PRÓPRIA",
+        "chamada": "411101"
+    },
+    {
+        "classificacao": "4-1-1-01-0002",
+        "nome": "CUSTO DAS MERCADORIAS VENDIDAS",
+        "chamada": "411102"
+    },
+    {
+        "classificacao": "4-1-1-01-0003",
+        "nome": "(-) CUSTO DEVOLUÇÃO DAS MERCADORIAS VENDIDAS",
+        "chamada": "411103"
+    },
+    {
+        "classificacao": "4-1-1-01-0004",
+        "nome": "CUSTO DOS SERVIÇOS PRESTADOS",
+        "chamada": "411104"
+    },
+    {
+        "classificacao": "4-1-1-01-0005",
+        "nome": "CUSTO DAS UNIDADES IMOBILIÁRIAS VENDIDAS",
+        "chamada": "411105"
+    },
+    {
+        "classificacao": "4-1-1-01-0006",
+        "nome": "CUSTO DE CONSTRUÇÃO",
+        "chamada": "411106"
+    },
+    {
+        "classificacao": "4-1-1-01-0007",
+        "nome": "CUSTO DE OPERAÇÃO DE SECURITIZAÇÃO",
+        "chamada": "411107"
+    },
+    {
+        "classificacao": "4-1-1-01-0008",
+        "nome": "CUSTO COM TRANSFERÊNCIA",
+        "chamada": "411108"
+    },
+    {
+        "classificacao": "4-1-1-01-0009",
+        "nome": "(-) CUSTO COM TRANSFERÊNCIA",
+        "chamada": "411109"
+    },
+    {
+        "classificacao": "5",
+        "nome": "DESPESAS",
+        "chamada": "5"
+    },
+    {
+        "classificacao": "5-1",
+        "nome": "DESPESAS OPERACIONAIS",
+        "chamada": "51"
+    },
+    {
+        "classificacao": "5-1-1",
+        "nome": "DESPESAS TRABALHISTAS",
+        "chamada": "511"
+    },
+    {
+        "classificacao": "5-1-1-01",
+        "nome": "DESPESAS TRABALHISTAS",
+        "chamada": "5111"
+    },
+    {
+        "classificacao": "5-1-1-01-0001",
+        "nome": "REMUNERAÇÃO A DIRIGENTES / CONS ADMINISTRAÇÃO",
+        "chamada": "511101"
+    },
+    {
+        "classificacao": "5-1-1-01-0002",
+        "nome": "OUTROS GASTOS COM PESSOAL",
+        "chamada": "511102"
+    },
+    {
+        "classificacao": "5-1-1-01-0003",
+        "nome": "SALÁRIOS",
+        "chamada": "511103"
+    },
+    {
+        "classificacao": "5-1-1-01-0004",
+        "nome": "HORA EXTRA",
+        "chamada": "511104"
+    },
+    {
+        "classificacao": "5-1-1-01-0005",
+        "nome": "13º SALÁRIO",
+        "chamada": "511105"
+    },
+    {
+        "classificacao": "5-1-1-01-0006",
+        "nome": "ABONO DE FÉRIAS",
+        "chamada": "511106"
+    },
+    {
+        "classificacao": "5-1-1-01-0007",
+        "nome": "FÉRIAS",
+        "chamada": "511107"
+    },
+    {
+        "classificacao": "5-1-1-01-0008",
+        "nome": "INDENIZAÇÃO TRABALHISTA",
+        "chamada": "511108"
+    },
+    {
+        "classificacao": "5-1-1-01-0009",
+        "nome": "AVISO PRÉVIO",
+        "chamada": "511109"
+    },
+    {
+        "classificacao": "5-1-1-01-0010",
+        "nome": "BOLSA ESTÁGIO",
+        "chamada": "511110"
+    },
+    {
+        "classificacao": "5-1-1-01-0011",
+        "nome": "PREMIAÇÃO",
+        "chamada": "511111"
+    },
+    {
+        "classificacao": "5-1-1-01-0012",
+        "nome": "PENSÃO ALIMENTÍCIA",
+        "chamada": "511112"
+    },
+    {
+        "classificacao": "5-1-1-01-0013",
+        "nome": "SALÁRIO FAMÍLIA",
+        "chamada": "511113"
+    },
+    {
+        "classificacao": "5-1-1-01-0014",
+        "nome": "GRATIFICAÇÃO",
+        "chamada": "511114"
+    },
+    {
+        "classificacao": "5-1-1-01-0015",
+        "nome": "COMISSÕES",
+        "chamada": "511115"
+    },
+    {
+        "classificacao": "5-1-1-01-0016",
+        "nome": "ADICIONAL NOTURNO",
+        "chamada": "511116"
+    },
+    {
+        "classificacao": "5-1-1-01-0017",
+        "nome": "PERICULOSIDADE",
+        "chamada": "511117"
+    },
+    {
+        "classificacao": "5-1-1-01-0018",
+        "nome": "INSALUBRIDADE",
+        "chamada": "511118"
+    },
+    {
+        "classificacao": "5-1-1-01-0019",
+        "nome": "AJUDA DE CUSTO",
+        "chamada": "511119"
+    },
+    {
+        "classificacao": "5-1-1-01-0020",
+        "nome": "VALE REFEIÇÃO / ALIMENTAÇÃO",
+        "chamada": "511120"
+    },
+    {
+        "classificacao": "5-1-1-01-0021",
+        "nome": "VALE TRANSPORTE",
+        "chamada": "511121"
+    },
+    {
+        "classificacao": "5-1-1-01-0022",
+        "nome": "ASSISTÊNCIA MÉDICA",
+        "chamada": "511122"
+    },
+    {
+        "classificacao": "5-1-1-01-0023",
+        "nome": "ASSISTÊNCIA ODONTOLÓGICA",
+        "chamada": "511123"
+    },
+    {
+        "classificacao": "5-1-1-01-0024",
+        "nome": "ASSISTÊNCIA FARMACÊUTICA",
+        "chamada": "511124"
+    },
+    {
+        "classificacao": "5-1-1-01-0025",
+        "nome": "EXAMES LABORAIS, ADMISSIONAL E DEMISSIONAL",
+        "chamada": "511125"
+    },
+    {
+        "classificacao": "5-1-1-01-0026",
+        "nome": "FORMAÇÃO PROFISSIONAL",
+        "chamada": "511126"
+    },
+    {
+        "classificacao": "5-1-1-01-0027",
+        "nome": "UNIFORMES",
+        "chamada": "511127"
+    },
+    {
+        "classificacao": "5-1-1-01-0028",
+        "nome": "PRO-LABORE",
+        "chamada": "511128"
+    },
+    {
+        "classificacao": "5-1-1-01-0029",
+        "nome": "VALE TRANSPORTE - ADM",
+        "chamada": "511129"
+    },
+    {
+        "classificacao": "5-1-1-01-0030",
+        "nome": "VALE TRANSPORTE - TERCEIRIZADOS",
+        "chamada": "511130"
+    },
+    {
+        "classificacao": "5-1-1-01-0031",
+        "nome": "VALE TRANSPORTE - INTERMITENTES",
+        "chamada": "511131"
+    },
+    {
+        "classificacao": "5-1-2",
+        "nome": "ENCARGOS SOCIAIS",
+        "chamada": "512"
+    },
+    {
+        "classificacao": "5-1-2-01",
+        "nome": "ENCARGOS SOCIAIS",
+        "chamada": "5121"
+    },
+    {
+        "classificacao": "5-1-2-01-0001",
+        "nome": "INSS",
+        "chamada": "512101"
+    },
+    {
+        "classificacao": "5-1-2-01-0002",
+        "nome": "FGTS",
+        "chamada": "512102"
+    },
+    {
+        "classificacao": "5-1-2-01-0003",
+        "nome": "ENCARGOS SOCIAIS - OUTROS",
+        "chamada": "512103"
+    },
+    {
+        "classificacao": "5-1-2-01-0004",
+        "nome": "INSS SOBRE RECEITA",
+        "chamada": "512104"
+    },
+    {
+        "classificacao": "5-1-2-01-0005",
+        "nome": "FGTS RESCISÓRIO",
+        "chamada": "512105"
+    },
+    {
+        "classificacao": "5-1-2-01-0006",
+        "nome": "INSS SOBRE AUTÔNOMO",
+        "chamada": "512106"
+    },
+    {
+        "classificacao": "5-1-2-01-0030",
+        "nome": "INSS ADM",
+        "chamada": "512130"
+    },
+    {
+        "classificacao": "5-1-2-01-0031",
+        "nome": "INSS TERCEIRIZADOS",
+        "chamada": "512131"
+    },
+    {
+        "classificacao": "5-1-2-01-0032",
+        "nome": "FGTS ADM",
+        "chamada": "512132"
+    },
+    {
+        "classificacao": "5-1-2-01-0033",
+        "nome": "FGTS TERCEIRIZADOS",
+        "chamada": "512133"
+    },
+    {
+        "classificacao": "5-1-2-01-0040",
+        "nome": "INSS INTERMITENTES",
+        "chamada": "512140"
+    },
+    {
+        "classificacao": "5-1-2-01-0041",
+        "nome": "FGTS INTERMITENTES",
+        "chamada": "512141"
+    },
+    {
+        "classificacao": "5-1-3",
+        "nome": "DESPESAS OPERACIONAIS",
+        "chamada": "513"
+    },
+    {
+        "classificacao": "5-1-3-01",
+        "nome": "DESPESAS OPERACIONAIS DAS ATIVIDADES EM GERAL",
+        "chamada": "5131"
+    },
+    {
+        "classificacao": "5-1-3-01-0001",
+        "nome": "SERVIÇOS DE TERCEIROS - PF",
+        "chamada": "513101"
+    },
+    {
+        "classificacao": "5-1-3-01-0002",
+        "nome": "SERVIÇOS DE TERCEIROS - PJ",
+        "chamada": "513102"
+    },
+    {
+        "classificacao": "5-1-3-01-0003",
+        "nome": "FRETES",
+        "chamada": "513103"
+    },
+    {
+        "classificacao": "5-1-3-01-0004",
+        "nome": "DOAÇÕES E PATROCÍNIOS CULTURAL E ARTÍSTICO",
+        "chamada": "513104"
+    },
+    {
+        "classificacao": "5-1-3-01-0005",
+        "nome": "DOAÇÕES DE AQUISIÇÃO DE VALE CULTURAL",
+        "chamada": "513105"
+    },
+    {
+        "classificacao": "5-1-3-01-0006",
+        "nome": "DOAÇÕES A INSTITUIÇÃO DE ENSINO E PESQUISA",
+        "chamada": "513106"
+    },
+    {
+        "classificacao": "5-1-3-01-0007",
+        "nome": "DOAÇÕES A ENTIDADES CIVIS",
+        "chamada": "513107"
+    },
+    {
+        "classificacao": "5-1-3-01-0008",
+        "nome": "ARRENDAMENTO MERCANTIL",
+        "chamada": "513108"
+    },
+    {
+        "classificacao": "5-1-3-01-0009",
+        "nome": "ALUGUÉIS",
+        "chamada": "513109"
+    },
+    {
+        "classificacao": "5-1-3-01-0010",
+        "nome": "DESPESAS COM VEÍCULOS",
+        "chamada": "513110"
+    },
+    {
+        "classificacao": "5-1-3-01-0011",
+        "nome": "CONSERVAÇÃO DE BENS E INSTALAÇÕES",
+        "chamada": "513111"
+    },
+    {
+        "classificacao": "5-1-3-01-0012",
+        "nome": "PROPAGANDA, PUBLICIDADE E PATROCÍNIO",
+        "chamada": "513112"
+    },
+    {
+        "classificacao": "5-1-3-01-0013",
+        "nome": "MULTAS",
+        "chamada": "513113"
+    },
+    {
+        "classificacao": "5-1-3-01-0014",
+        "nome": "ENCARGOS DE DEPRECIAÇÃO",
+        "chamada": "513114"
+    },
+    {
+        "classificacao": "5-1-3-01-0015",
+        "nome": "ENCARGOS DE AMORTIZAÇÃO",
+        "chamada": "513115"
+    },
+    {
+        "classificacao": "5-1-3-01-0016",
+        "nome": "DEMAIS PROVISÕES",
+        "chamada": "513116"
+    },
+    {
+        "classificacao": "5-1-3-01-0017",
+        "nome": "GRATIFICAÇÕES A ADMINISTRADORES",
+        "chamada": "513117"
+    },
+    {
+        "classificacao": "5-1-3-01-0018",
+        "nome": "PESQUISAS CIENTÍFICAS E TECNOLÓGICAS",
+        "chamada": "513118"
+    },
+    {
+        "classificacao": "5-1-3-01-0019",
+        "nome": "DESPESAS COM ENERGIA ELÉTRICA",
+        "chamada": "513119"
+    },
+    {
+        "classificacao": "5-1-3-01-0020",
+        "nome": "DESPESAS COM ÁGUA E ESGOTO",
+        "chamada": "513120"
+    },
+    {
+        "classificacao": "5-1-3-01-0021",
+        "nome": "DESPESAS COM TELEFONE E INTERNET",
+        "chamada": "513121"
+    },
+    {
+        "classificacao": "5-1-3-01-0022",
+        "nome": "DESPESAS COM CORREIOS E MALOTES",
+        "chamada": "513122"
+    },
+    {
+        "classificacao": "5-1-3-01-0023",
+        "nome": "DESPESAS COM SEGUROS",
+        "chamada": "513123"
+    },
+    {
+        "classificacao": "5-1-3-01-0024",
+        "nome": "HONORÁRIOS CONTÁBEIS",
+        "chamada": "513124"
+    },
+    {
+        "classificacao": "5-1-3-01-0025",
+        "nome": "ASSISTÊNCIA MÉDICA",
+        "chamada": "513125"
+    },
+    {
+        "classificacao": "5-1-3-01-0026",
+        "nome": "BRINDES",
+        "chamada": "513126"
+    },
+    {
+        "classificacao": "5-1-3-01-0027",
+        "nome": "HONORÁRIOS ADVOCATÍCIOS",
+        "chamada": "513127"
+    },
+    {
+        "classificacao": "5-1-3-01-9999",
+        "nome": "OUTRAS CONTRIBUIÇÕES, DOAÇÕES E PATROCÍNIOS",
+        "chamada": "513199"
+    },
+    {
+        "classificacao": "5-1-4",
+        "nome": "DESPESAS FINANCEIRAS",
+        "chamada": "514"
+    },
+    {
+        "classificacao": "5-1-4-01",
+        "nome": "DESPESAS FINANCEIRAS",
+        "chamada": "5141"
+    },
+    {
+        "classificacao": "5-1-4-01-0001",
+        "nome": "VARIAÇÕES CAMBIAIS PASSIVAS",
+        "chamada": "514101"
+    },
+    {
+        "classificacao": "5-1-4-01-0002",
+        "nome": "JUROS C/ EMPRÉSTIMOS PESSOAS C/ TRIBUTAÇÃO",
+        "chamada": "514102"
+    },
+    {
+        "classificacao": "5-1-4-01-0003",
+        "nome": "DESPESAS DE JUROS SOBRE O CAPITAL PRÓPRIO",
+        "chamada": "514103"
+    },
+    {
+        "classificacao": "5-1-4-01-0004",
+        "nome": "DESPESAS FINANCEIRAS À ARRENDAMENTO MERCANTIL",
+        "chamada": "514104"
+    },
+    {
+        "classificacao": "5-1-4-01-0005",
+        "nome": "DESPESAS FINANCEIRAS DOS AJUSTES VALOR PRESENTE",
+        "chamada": "514105"
+    },
+    {
+        "classificacao": "5-1-4-01-0006",
+        "nome": "JUROS DE MORA",
+        "chamada": "514106"
+    },
+    {
+        "classificacao": "5-1-4-01-0007",
+        "nome": "DESCONTOS CONCEDIDOS",
+        "chamada": "514107"
+    },
+    {
+        "classificacao": "5-1-5",
+        "nome": "DESPESAS TRIBUTÁRIAS",
+        "chamada": "515"
+    },
+    {
+        "classificacao": "5-1-5-01",
+        "nome": "DESPESAS TRIBUTÁRIAS",
+        "chamada": "5151"
+    },
+    {
+        "classificacao": "5-1-5-01-0001",
+        "nome": "IOF",
+        "chamada": "515101"
+    },
+    {
+        "classificacao": "5-1-5-01-0002",
+        "nome": "IPTU",
+        "chamada": "515102"
+    },
+    {
+        "classificacao": "5-1-5-01-0003",
+        "nome": "IPVA",
+        "chamada": "515103"
+    },
+    {
+        "classificacao": "5-1-5-01-0004",
+        "nome": "IRRF",
+        "chamada": "515104"
+    },
+    {
+        "classificacao": "5-1-5-01-0005",
+        "nome": "SIMPLES NACIONAL",
+        "chamada": "515105"
+    },
+    {
+        "classificacao": "5-1-5-01-0006",
+        "nome": "IRPJ - ADICIONAL",
+        "chamada": "515106"
+    },
+    {
+        "classificacao": "5-1-5-01-0007",
+        "nome": "ISS",
+        "chamada": "515107"
+    },
+    {
+        "classificacao": "5-1-5-01-0008",
+        "nome": "IMPOSTOS E TAXAS",
+        "chamada": "515108"
+    },
+    {
+        "classificacao": "5-1-5-01-0009",
+        "nome": "IMPOSTOS E TAXAS FEDERAIS",
+        "chamada": "515109"
+    },
+    {
+        "classificacao": "5-1-5-01-0010",
+        "nome": "IMPOSTO SOBRE IMPORTAÇÃO",
+        "chamada": "515110"
+    },
+    {
+        "classificacao": "5-1-5-01-0011",
+        "nome": "PIS",
+        "chamada": "515111"
+    },
+    {
+        "classificacao": "5-1-5-01-0012",
+        "nome": "COFINS",
+        "chamada": "515112"
+    },
+    {
+        "classificacao": "5-1-5-01-0013",
+        "nome": "CIDE",
+        "chamada": "515113"
+    },
+    {
+        "classificacao": "5-1-5-01-0014",
+        "nome": "ICMS",
+        "chamada": "515114"
+    },
+    {
+        "classificacao": "5-1-5-01-9999",
+        "nome": "DEMAIS IMPOSTOS, TAXAS E CONTRIBUIÇÕES",
+        "chamada": "515199"
+    },
+    {
+        "classificacao": "5-1-6",
+        "nome": "OUTRAS DESPESAS OPERACIONAIS",
+        "chamada": "516"
+    },
+    {
+        "classificacao": "5-1-6-01",
+        "nome": "OUTRAS DESPESAS OPERACIONAIS EM GERAL",
+        "chamada": "5161"
+    },
+    {
+        "classificacao": "5-1-6-01-0001",
+        "nome": "CONTRIBUIÇÃO SINDICAL",
+        "chamada": "516101"
+    },
+    {
+        "classificacao": "5-1-6-01-0002",
+        "nome": "DESPESAS DE REMUNERAÇÃO DE DEBÊNTURES",
+        "chamada": "516102"
+    },
+    {
+        "classificacao": "5-1-6-01-0003",
+        "nome": "CONTRIBUIÇÃO PATRONAL",
+        "chamada": "516103"
+    },
+    {
+        "classificacao": "5-1-6-01-0004",
+        "nome": "CONTRIBUIÇÃO ASSOCIATIVA, ASSOC. DA CLASSE",
+        "chamada": "516104"
+    },
+    {
+        "classificacao": "5-1-6-01-0005",
+        "nome": "CONSELHO DA CLASSE",
+        "chamada": "516105"
+    },
+    {
+        "classificacao": "5-1-6-01-0006",
+        "nome": "DESPESAS COM CORRETAGEM E EMOLUMENTOS",
+        "chamada": "516106"
+    },
+    {
+        "classificacao": "5-1-6-01-0007",
+        "nome": "DESPESAS COM DESÁGIO NA CESSÃO DE TÍTULOS",
+        "chamada": "516107"
+    },
+    {
+        "classificacao": "5-1-6-01-0008",
+        "nome": "DESPESAS INCORRIDAS OPER MÚTUOS - PTE RELACIONADA",
+        "chamada": "516108"
+    },
+    {
+        "classificacao": "5-1-6-01-0009",
+        "nome": "DESPESAS INCORRIDAS OPER MÚTUOS - NÃO RELACIONADA",
+        "chamada": "516109"
+    },
+    {
+        "classificacao": "5-1-6-01-0010",
+        "nome": "PEÇAS / REPAROS DE INFORMÁTICA",
+        "chamada": "516110"
+    },
+    {
+        "classificacao": "5-1-6-01-0011",
+        "nome": "CONFRATERNIZAÇÕES",
+        "chamada": "516111"
+    },
+    {
+        "classificacao": "5-1-6-01-0012",
+        "nome": "COPA / COZINHA / REFEITÓRIOS",
+        "chamada": "516112"
+    },
+    {
+        "classificacao": "5-1-6-01-0013",
+        "nome": "CORREIOS, POSTAIS E TELEGRAFOS",
+        "chamada": "516113"
+    },
+    {
+        "classificacao": "5-1-6-01-0014",
+        "nome": "DESPESAS GRÁFICAS, CÓPIAS E REPRODUÇÕES",
+        "chamada": "516114"
+    },
+    {
+        "classificacao": "5-1-6-01-0015",
+        "nome": "VIAGENS E ESTADIAS",
+        "chamada": "516115"
+    },
+    {
+        "classificacao": "5-1-6-01-0016",
+        "nome": "DESPESAS COM VEÍCULOS",
+        "chamada": "516116"
+    },
+    {
+        "classificacao": "5-1-6-01-0017",
+        "nome": "DESPESAS DE CARTÓRIO",
+        "chamada": "516117"
+    },
+    {
+        "classificacao": "5-1-6-01-0018",
+        "nome": "FEIRAS / CONGRESSOS",
+        "chamada": "516118"
+    },
+    {
+        "classificacao": "5-1-6-01-0019",
+        "nome": "MEDICAMENTOS",
+        "chamada": "516119"
+    },
+    {
+        "classificacao": "5-1-6-01-0020",
+        "nome": "ESTACIONAMENTO E PEDÁGIO",
+        "chamada": "516120"
+    },
+    {
+        "classificacao": "5-1-6-01-0021",
+        "nome": "LIVROS, JORNAIS E REVISTAS",
+        "chamada": "516121"
+    },
+    {
+        "classificacao": "5-1-6-01-0022",
+        "nome": "LOCAÇÕES",
+        "chamada": "516122"
+    },
+    {
+        "classificacao": "5-1-6-01-0023",
+        "nome": "MANUTENÇÃO E CONSERVAÇÃO",
+        "chamada": "516123"
+    },
+    {
+        "classificacao": "5-1-6-01-0024",
+        "nome": "MATERIAL DE ESCRITÓRIO",
+        "chamada": "516124"
+    },
+    {
+        "classificacao": "5-1-6-01-0025",
+        "nome": "DESPESA COM GÁS",
+        "chamada": "516125"
+    },
+    {
+        "classificacao": "5-1-6-01-0026",
+        "nome": "CONDOMÍNIO",
+        "chamada": "516126"
+    },
+    {
+        "classificacao": "5-1-6-01-0027",
+        "nome": "MATERIAL DE LIMPEZA",
+        "chamada": "516127"
+    },
+    {
+        "classificacao": "5-1-6-01-0028",
+        "nome": "LANCHES E REFEIÇÕES",
+        "chamada": "516128"
+    },
+    {
+        "classificacao": "5-1-6-01-0029",
+        "nome": "CONDUÇÃO",
+        "chamada": "516129"
+    },
+    {
+        "classificacao": "5-1-6-01-0030",
+        "nome": "CARTÃO DE CRÉDITO",
+        "chamada": "516130"
+    },
+    {
+        "classificacao": "5-1-6-01-0031",
+        "nome": "DESPESAS COM EVENTOS",
+        "chamada": "516131"
+    },
+    {
+        "classificacao": "5-1-6-01-0032",
+        "nome": "TV POR ASSINATURA",
+        "chamada": "516132"
+    },
+    {
+        "classificacao": "5-1-6-01-0033",
+        "nome": "EMBALAGENS DESCARTÁVEIS",
+        "chamada": "516133"
+    },
+    {
+        "classificacao": "5-1-6-01-0034",
+        "nome": "ASSINATURAS E MENSALIDADES",
+        "chamada": "516134"
+    },
+    {
+        "classificacao": "5-1-6-01-0035",
+        "nome": "CURSOS E TREINAMENTOS",
+        "chamada": "516135"
+    },
+    {
+        "classificacao": "5-1-6-01-0036",
+        "nome": "DESPESAS BANCÁRIAS",
+        "chamada": "516136"
+    },
+    {
+        "classificacao": "5-1-6-01-0037",
+        "nome": "DESPESA COM COMBUSTÍVEL",
+        "chamada": "516137"
+    },
+    {
+        "classificacao": "5-1-6-01-0038",
+        "nome": "PERDA APLICAÇÃO FINANCEIRA",
+        "chamada": "516138"
+    },
+    {
+        "classificacao": "5-1-6-01-0039",
+        "nome": "COMISSIONAMENTO",
+        "chamada": "516139"
+    },
+    {
+        "classificacao": "5-1-6-01-0040",
+        "nome": "INFRAÇÃO DE TRÂNSITO",
+        "chamada": "516140"
+    },
+    {
+        "classificacao": "5-1-6-01-0041",
+        "nome": "BLOQUEIO JUDICIAL",
+        "chamada": "516141"
+    },
+    {
+        "classificacao": "5-1-6-01-0042",
+        "nome": "DESPESAS COM ARBITRAGEM",
+        "chamada": "516142"
+    },
+    {
+        "classificacao": "5-1-6-01-0043",
+        "nome": "MEDALHAS E TROFÉUS",
+        "chamada": "516143"
+    },
+    {
+        "classificacao": "5-1-6-01-0044",
+        "nome": "PREMIAÇÃO",
+        "chamada": "516144"
+    },
+    {
+        "classificacao": "5-1-6-01-0045",
+        "nome": "APOIO TÉCNICO",
+        "chamada": "516145"
+    },
+    {
+        "classificacao": "5-1-6-01-0046",
+        "nome": "PRODUTOS E SERVIÇOS",
+        "chamada": "516146"
+    },
+    {
+        "classificacao": "5-1-6-01-0047",
+        "nome": "DESPESAS COM REPRESENTAÇÃO",
+        "chamada": "516147"
+    },
+    {
+        "classificacao": "5-1-6-01-0048",
+        "nome": "DESPESAS COM TORNEIO",
+        "chamada": "516148"
+    },
+    {
+        "classificacao": "5-1-6-01-0049",
+        "nome": "DEVOLUÇÃO DE INSCRIÇÃO",
+        "chamada": "516149"
+    },
+    {
+        "classificacao": "5-1-6-01-0050",
+        "nome": "DESPESAS COM CAMISAS",
+        "chamada": "516150"
+    },
+    {
+        "classificacao": "5-1-6-01-0051",
+        "nome": "DESPESAS COM PRESIDÊNCIA",
+        "chamada": "516151"
+    },
+    {
+        "classificacao": "5-1-6-01-0052",
+        "nome": "DESPESAS COM DIRETÓRIA TÉCNICA",
+        "chamada": "516152"
+    },
+    {
+        "classificacao": "5-1-6-01-0053",
+        "nome": "DESPESAS ADMINISTRATIVAS",
+        "chamada": "516153"
+    },
+    {
+        "classificacao": "5-1-6-01-0054",
+        "nome": "SISTEMA / PROGRAMAÇÃO",
+        "chamada": "516154"
+    },
+    {
+        "classificacao": "5-1-6-01-0055",
+        "nome": "MATERIAL ESPORTIVO",
+        "chamada": "516155"
+    },
+    {
+        "classificacao": "5-1-6-01-0056",
+        "nome": "LEGAIS E JUDICIAIS",
+        "chamada": "516156"
+    },
+    {
+        "classificacao": "5-1-6-01-0057",
+        "nome": "LICENÇAS",
+        "chamada": "516157"
+    },
+    {
+        "classificacao": "5-1-6-01-0058",
+        "nome": "DESPESAS COM SOFTWARES",
+        "chamada": "516158"
+    },
+    {
+        "classificacao": "5-1-6-01-0059",
+        "nome": "MATERIAL DE EQUIPAMENTO DE SEGURANÇA - EPI",
+        "chamada": "516159"
+    },
+    {
+        "classificacao": "5-1-6-01-0060",
+        "nome": "DESPESA COM IMPORTAÇÃO",
+        "chamada": "516160"
+    },
+    {
+        "classificacao": "5-1-6-01-0061",
+        "nome": "APOIO COM REPRESENTAÇÃO",
+        "chamada": "516161"
+    },
+    {
+        "classificacao": "5-1-6-01-0062",
+        "nome": "PERDA DO PERÍODO",
+        "chamada": "516162"
+    },
+    {
+        "classificacao": "5-1-6-01-0063",
+        "nome": "MANUTENÇÃO E CONSERVAÇÃO EM TI",
+        "chamada": "516163"
+    },
+    {
+        "classificacao": "5-1-6-01-0064",
+        "nome": "DESPESA COM MATERIAL P/TREINAMENTO, EVENTO E CURSO",
+        "chamada": "516164"
+    },
+    {
+        "classificacao": "5-1-6-01-9998",
+        "nome": "BENS DE PEQUENO VALOR",
+        "chamada": "516198"
+    },
+    {
+        "classificacao": "5-1-6-01-9999",
+        "nome": "OUTRAS DESPESAS OPERACIONAIS",
+        "chamada": "516199"
+    },
+    {
+        "classificacao": "5-2",
+        "nome": "PROVISÃO PARA CSLL E IRPJ",
+        "chamada": "52"
+    },
+    {
+        "classificacao": "5-2-1",
+        "nome": "PROVISÃO PARA CSLL E IRPJ",
+        "chamada": "521"
+    },
+    {
+        "classificacao": "5-2-1-01",
+        "nome": "PROVISÃO PARA CSLL E IRPJ",
+        "chamada": "5211"
+    },
+    {
+        "classificacao": "5-2-1-01-0001",
+        "nome": "PROVISÃO P/ CONTRIBUIÇÃO SOCIAL S/ LUCRO LÍQUIDO",
+        "chamada": "521101"
+    },
+    {
+        "classificacao": "5-2-1-01-0002",
+        "nome": "PROVISÃO P/ IMPOSTO DE RENDA - PESSOA JURIDICA",
+        "chamada": "521102"
+    },
+    {
+        "classificacao": "5-2-1-01-0003",
+        "nome": "IRPJ S/ DÉBITOS FISCAIS",
+        "chamada": "521103"
+    },
+    {
+        "classificacao": "5-2-1-01-0004",
+        "nome": "CSLL S/ DÉBITOS FISCAIS",
+        "chamada": "521104"
+    },
+    {
+        "classificacao": "5-3",
+        "nome": "RESULTADO DO EXRECÍCIO",
+        "chamada": "53"
+    },
+    {
+        "classificacao": "5-3-1",
+        "nome": "RESULTADO DO EXRECÍCIO",
+        "chamada": "531"
+    },
+    {
+        "classificacao": "5-3-1-01",
+        "nome": "RESULTADO DO EXRECÍCIO",
+        "chamada": "5311"
+    },
+    {
+        "classificacao": "5-3-1-01-0001",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "531101"
+    },
+    {
+        "classificacao": "6",
+        "nome": "RECEITA",
+        "chamada": "6"
+    },
+    {
+        "classificacao": "6-1",
+        "nome": "RECEITA OPERACIONAL",
+        "chamada": "61"
+    },
+    {
+        "classificacao": "6-1-1",
+        "nome": "RECEITA LÍQUIDA",
+        "chamada": "611"
+    },
+    {
+        "classificacao": "6-1-1-01",
+        "nome": "RECEITA BRUTA",
+        "chamada": "6111"
+    },
+    {
+        "classificacao": "6-1-1-01-0001",
+        "nome": "RECEITA EXPORTAÇÃO DIRETA MERCADORIAS E PRODUTOS",
+        "chamada": "611101"
+    },
+    {
+        "classificacao": "6-1-1-01-0002",
+        "nome": "RECEITA VENDAS MERCADORIAS A COMERCIAL EXPORTADORA",
+        "chamada": "611102"
+    },
+    {
+        "classificacao": "6-1-1-01-0003",
+        "nome": "RECEITA EXPORTAÇÃO DE SERVIÇOS",
+        "chamada": "611103"
+    },
+    {
+        "classificacao": "6-1-1-01-0004",
+        "nome": "RECEITA VENDA DE PRODUTOS DE FABRICAÇÃO PRÓPRIA",
+        "chamada": "611104"
+    },
+    {
+        "classificacao": "6-1-1-01-0005",
+        "nome": "RECEITA REVENDA DE MERCADORIAS NO MERCADO INTERNO",
+        "chamada": "611105"
+    },
+    {
+        "classificacao": "6-1-1-01-0006",
+        "nome": "RECEITA PRESTAÇÃO DE SERVIÇOS NO MERCADO INTERNO",
+        "chamada": "611106"
+    },
+    {
+        "classificacao": "6-1-1-01-0007",
+        "nome": "RECEITA VENDA DE UNIDADES IMOBILIÁRIAS",
+        "chamada": "611107"
+    },
+    {
+        "classificacao": "6-1-1-01-0008",
+        "nome": "RECEITA LOCAÇÃO DE BENS MÓVEIS E IMÓVEIS",
+        "chamada": "611108"
+    },
+    {
+        "classificacao": "6-1-1-01-0009",
+        "nome": "RECEITA CONTRATO DE CONSTRUÇÃO",
+        "chamada": "611109"
+    },
+    {
+        "classificacao": "6-1-1-01-0010",
+        "nome": "RECEITA DIREITO DE EXPLORAÇÃO SERVIÇO PÚBLICO",
+        "chamada": "611110"
+    },
+    {
+        "classificacao": "6-1-1-01-0011",
+        "nome": "RECEITA SECURITIZAÇÃO DE CRÉDITOS",
+        "chamada": "611111"
+    },
+    {
+        "classificacao": "6-1-1-01-0012",
+        "nome": "RECEITA COM INSCRIÇÕES",
+        "chamada": "611112"
+    },
+    {
+        "classificacao": "6-1-1-01-0013",
+        "nome": "DOAÇÕES RECEBIDAS",
+        "chamada": "611113"
+    },
+    {
+        "classificacao": "6-1-1-01-0014",
+        "nome": "RECEITAS COM ANUIDADES",
+        "chamada": "611114"
+    },
+    {
+        "classificacao": "6-1-1-01-9999",
+        "nome": "OUTRAS RECEITAS DA ATIVIDADE GERAL",
+        "chamada": "611199"
+    },
+    {
+        "classificacao": "6-1-1-02",
+        "nome": "DEDUÇÕES DA RECEITA BRUTA",
+        "chamada": "6112"
+    },
+    {
+        "classificacao": "6-1-1-02-0001",
+        "nome": "(-) VENDAS CANCELADAS E DEVOLUÇÕES DE VENDAS",
+        "chamada": "611201"
+    },
+    {
+        "classificacao": "6-1-1-02-0002",
+        "nome": "(-) DESCONTOS INCONDICIONAIS E ABATIMENTOS",
+        "chamada": "611202"
+    },
+    {
+        "classificacao": "6-1-1-02-0003",
+        "nome": "(-) ICMS",
+        "chamada": "611203"
+    },
+    {
+        "classificacao": "6-1-1-02-0004",
+        "nome": "(-) ICMS - FILIAL 1",
+        "chamada": "611204"
+    },
+    {
+        "classificacao": "6-1-1-02-0005",
+        "nome": "(-) ICMS - FILIAL 2",
+        "chamada": "611205"
+    },
+    {
+        "classificacao": "6-1-1-02-0006",
+        "nome": "(-) COFINS SOBRE RECEITA BRUTA",
+        "chamada": "611206"
+    },
+    {
+        "classificacao": "6-1-1-02-0007",
+        "nome": "(-) PIS/PASEP SOBRE RECEITA BRUTA",
+        "chamada": "611207"
+    },
+    {
+        "classificacao": "6-1-1-02-0008",
+        "nome": "(-) ISS",
+        "chamada": "611208"
+    },
+    {
+        "classificacao": "6-1-1-02-0009",
+        "nome": "(-) DEMAIS IMPOSTOS E CONTRIB S/VENDAS E SERVIÇOS",
+        "chamada": "611209"
+    },
+    {
+        "classificacao": "6-1-1-02-0010",
+        "nome": "(-) AJUSTE A VALOR PRESENTE SOBRE RECEITA BRUTA",
+        "chamada": "611210"
+    },
+    {
+        "classificacao": "6-1-1-02-0011",
+        "nome": "(-) ICMS - FILIAL 3",
+        "chamada": "611211"
+    },
+    {
+        "classificacao": "6-1-1-02-0012",
+        "nome": "(-) IPI",
+        "chamada": "611212"
+    },
+    {
+        "classificacao": "6-1-2",
+        "nome": "OUTRAS RECEITAS OPERACIONAIS",
+        "chamada": "612"
+    },
+    {
+        "classificacao": "6-1-2-01",
+        "nome": "OUTRAS RECEITAS OPERACIONAIS EM GERAL",
+        "chamada": "6121"
+    },
+    {
+        "classificacao": "6-1-2-01-0001",
+        "nome": "VARIAÇÕES CAMBIAIS ATIVAS",
+        "chamada": "612101"
+    },
+    {
+        "classificacao": "6-1-2-01-0002",
+        "nome": "GANHOS AUFERIDOS NO MERCADO DE RENDA VARIÁVEL",
+        "chamada": "612102"
+    },
+    {
+        "classificacao": "6-1-2-01-0003",
+        "nome": "RECEITA DE JUROS SOBRE O CAPITAL PRÓPRIO",
+        "chamada": "612103"
+    },
+    {
+        "classificacao": "6-1-2-01-0004",
+        "nome": "RENDIMENTOS E GANHOS CAPITAL AUFERIDOS NO EXTERIOR",
+        "chamada": "612104"
+    },
+    {
+        "classificacao": "6-1-2-01-0005",
+        "nome": "REVERSÃO DOS SALDOS DAS PROVISÕES",
+        "chamada": "612105"
+    },
+    {
+        "classificacao": "6-1-2-01-0006",
+        "nome": "PRÊMIOS RECEBIDOS NA EMISSÃO DE DEBÊNTURES",
+        "chamada": "612106"
+    },
+    {
+        "classificacao": "6-1-2-01-0007",
+        "nome": "DOAÇÃO E SUBVENÇÕES PARA CUSTEIO OU OPERAÇÕES",
+        "chamada": "612107"
+    },
+    {
+        "classificacao": "6-1-2-01-0008",
+        "nome": "DOAÇÃO E SUBVENÇÕES PARA INVESTIMENTO",
+        "chamada": "612108"
+    },
+    {
+        "classificacao": "6-1-2-01-0009",
+        "nome": "GANHO POR COMPRA VANTAJOSA EM INVESTIMENTOS",
+        "chamada": "612109"
+    },
+    {
+        "classificacao": "6-1-2-01-0010",
+        "nome": "AMORTIZAÇÃO DE MENOS-VALIA",
+        "chamada": "612110"
+    },
+    {
+        "classificacao": "6-1-2-01-0011",
+        "nome": "RECEITA ALUGUEL BENS IMÓVEIS - ATIV NÃO PRINCIPAL",
+        "chamada": "612111"
+    },
+    {
+        "classificacao": "6-1-2-01-0012",
+        "nome": "CRÉDITOS PRESUMIDOS DE IPI",
+        "chamada": "612112"
+    },
+    {
+        "classificacao": "6-1-2-01-0013",
+        "nome": "CRÉDITOS PRESUMIDO DE PIS/COFINS",
+        "chamada": "612113"
+    },
+    {
+        "classificacao": "6-1-2-01-0014",
+        "nome": "MULTAS E OUTRAS VANTAGENS RECEBIDAS",
+        "chamada": "612114"
+    },
+    {
+        "classificacao": "6-1-2-01-0015",
+        "nome": "RECEITAS COM EMPRÉSTIMOS DE VALORES MOBILIÁRIOS",
+        "chamada": "612115"
+    },
+    {
+        "classificacao": "6-1-2-01-0016",
+        "nome": "RENDIMENTOS EM OPERAÇÕES DE MÚTUOS",
+        "chamada": "612116"
+    },
+    {
+        "classificacao": "6-1-2-01-0017",
+        "nome": "RENDIMENTOS COM DEBÊNTURES",
+        "chamada": "612117"
+    },
+    {
+        "classificacao": "6-1-2-01-0018",
+        "nome": "RENDIMENTOS COM TÍTULOS PÚBLICOS",
+        "chamada": "612118"
+    },
+    {
+        "classificacao": "6-1-2-01-0019",
+        "nome": "JUROS RECEBIDOS",
+        "chamada": "612119"
+    },
+    {
+        "classificacao": "6-1-2-01-0020",
+        "nome": "DESCONTOS OBTIDOS",
+        "chamada": "612120"
+    },
+    {
+        "classificacao": "6-1-2-01-0021",
+        "nome": "BRINDES, BONIFICAÇÕES, DOAÇÕES E AMOSTRA",
+        "chamada": "612121"
+    },
+    {
+        "classificacao": "6-1-2-01-0022",
+        "nome": "INDENIZAÇÃO JUDICIAL",
+        "chamada": "612122"
+    },
+    {
+        "classificacao": "6-1-2-01-0023",
+        "nome": "PATROCÍNIO",
+        "chamada": "612123"
+    },
+    {
+        "classificacao": "6-1-2-01-0024",
+        "nome": "RECEITAS COM INSCRIÇÕES",
+        "chamada": "612124"
+    },
+    {
+        "classificacao": "6-1-2-01-0025",
+        "nome": "JUROS ATIVOS",
+        "chamada": "612125"
+    },
+    {
+        "classificacao": "6-1-2-01-9997",
+        "nome": "OUTROS CRÉDITOS FISCAIS PRESUMIDOS",
+        "chamada": "612197"
+    },
+    {
+        "classificacao": "6-1-2-01-9998",
+        "nome": "OUTRAS RECEITAS FINANCEIRAS",
+        "chamada": "612198"
+    },
+    {
+        "classificacao": "6-1-2-01-9999",
+        "nome": "OUTRAS RECEITAS OPERACIONAIS",
+        "chamada": "612199"
+    },
+    {
+        "classificacao": "6-1-3",
+        "nome": "OUTRAS RECEITAS E DESPESAS OPER DESCONTINUADAS",
+        "chamada": "613"
+    },
+    {
+        "classificacao": "6-1-3-01",
+        "nome": "OUTRAS RECEITAS E DESPESAS OPER DESCONTINUADAS",
+        "chamada": "6131"
+    },
+    {
+        "classificacao": "6-1-3-01-0001",
+        "nome": "GANHOS CAPITAL VARIAÇÃO PARTICIPAÇÕES SOCIETÁRIAS",
+        "chamada": "613101"
+    },
+    {
+        "classificacao": "6-1-3-01-0002",
+        "nome": "RECEITAS DE OPERAÇÕES DESCONTINUADAS",
+        "chamada": "613102"
+    },
+    {
+        "classificacao": "6-1-3-01-0003",
+        "nome": "(-) DESPESAS DE OPERAÇÕES DESCONTINUADAS",
+        "chamada": "613103"
+    },
+    {
+        "classificacao": "6-2",
+        "nome": "PARTICIPAÇÕES",
+        "chamada": "62"
+    },
+    {
+        "classificacao": "6-2-1",
+        "nome": "PARTICIPAÇÕES NOS LUCROS",
+        "chamada": "621"
+    },
+    {
+        "classificacao": "6-2-1-01",
+        "nome": "PARTICIPAÇÕES DE EMPREGADOS",
+        "chamada": "6211"
+    },
+    {
+        "classificacao": "6-2-1-01-0001",
+        "nome": "(-) PARTICIPAÇÕES DE EMPREGADOS",
+        "chamada": "621101"
+    },
+    {
+        "classificacao": "6-2-1-01-0002",
+        "nome": "(-) CONTRIBUIÇÕES P/ ASSISTÊNCIA / PREV EMPREGADOS",
+        "chamada": "621102"
+    },
+    {
+        "classificacao": "6-2-1-01-0003",
+        "nome": "(-) OUTRAS PARTICIPAÇÕES DE EMPREGADOS",
+        "chamada": "621103"
+    },
+    {
+        "classificacao": "6-2-1-02",
+        "nome": "OUTRAS PARTICIPAÇÕES",
+        "chamada": "6212"
+    },
+    {
+        "classificacao": "6-2-1-02-0001",
+        "nome": "(-) PARTICIPAÇÃO ADMINISTRADORES-PTE BENEFICIÁRIAS",
+        "chamada": "621201"
+    },
+    {
+        "classificacao": "6-2-1-02-0002",
+        "nome": "(-) PARTICIPAÇÕES DE DEBÊNTURES",
+        "chamada": "621202"
+    },
+    {
+        "classificacao": "6-2-1-02-0003",
+        "nome": "(-) OUTRAS PARTICIPAÇÕES",
+        "chamada": "621203"
+    },
+    {
+        "classificacao": "7",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "7"
+    },
+    {
+        "classificacao": "7-1",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "71"
+    },
+    {
+        "classificacao": "7-1-1",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "711"
+    },
+    {
+        "classificacao": "7-1-1-01",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "71101"
+    },
+    {
+        "classificacao": "7-1-1-01-0001",
+        "nome": "RESULTADO DO EXERCÍCIO",
+        "chamada": "711101"
+    }
+]
