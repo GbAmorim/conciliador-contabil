@@ -5,7 +5,6 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-# Busca a chave no arquivo secrets.toml
 try:
     API_KEY = st.secrets["GEMINI_API_KEY"]
 except Exception:
@@ -23,13 +22,11 @@ def process_statement_with_gemini(pdf_bytes, file_mime, plano_contas_txt):
         return None
 
     try:
-        # 1. Faz o upload do documento
         temp_file = client.files.upload(
             file=io.BytesIO(pdf_bytes),
             config=types.UploadFileConfig(mime_type=file_mime)
         )
 
-        # 2. Definição do Schema (usando dicionário puro para evitar erros de sintaxe)
         transaction_schema = {
             "type": "OBJECT",
             "properties": {
@@ -55,38 +52,25 @@ def process_statement_with_gemini(pdf_bytes, file_mime, plano_contas_txt):
             "required": ["transactions", "saldo_inicial", "saldo_final", "total_entradas", "total_saidas"]
         }
 
-        # --- NOVA FUNCIONALIDADE: LEITURA DAS REGRAS ---
-        regras_json_str = "Nenhuma regra específica configurada."
-        if os.path.exists("data/regras.json"):
-            try:
-                with open("data/regras.json", "r", encoding="utf-8") as f:
-                    regras_data = json.load(f)
-                    if regras_data.get("regras"):
-                        # Converte a lista de regras para um texto formatado
-                        regras_json_str = json.dumps(regras_data["regras"], ensure_ascii=False, indent=2)
-            except Exception:
-                pass
-        # -----------------------------------------------
-
-        # 3. Prompt de extração
         prompt = f"""
-        Você é um especialista em contabilidade. Analise o extrato e retorne um JSON com os saldos iniciais/finais, totais e a lista detalhada de transações.
+        Você é um especialista em contabilidade. Analise o extrato e retorne um JSON com as transações.
         
         Instruções:
-        1. Extraia o saldo inicial, final, total de entradas e total de saídas exatamente como aparecem no documento, não é necessário calcular nada, essas informações aparecem geralmente no início do documento.
+        1. Extraia o saldo inicial, final, total de entradas e total de saídas.
         2. Para as transações, ignore resumos e extraia cada item real.
-        3. Classifique cada item usando estritamente os códigos de 6 dígitos do plano de contas abaixo.
         
-        --- REGRAS DE CLASSIFICAÇÃO PRIORITÁRIA ---
-        Verifique se a descrição do item contém algum destes termos. Se contiver, USE OBRIGATORIAMENTE o código da conta correspondente abaixo:
-        {regras_json_str}
-        
-        --- PLANO DE CONTAS ---
+        --- PLANO DE CONTAS CUSTOMIZÁVEL ---
+        Classifique OBRIGATORIAMENTE usando os códigos abaixo caso o histórico da transação contenha a palavra-chave correspondente:
         {plano_contas_txt}
+        
+        --- REGRAS DE EXCEÇÃO (FALLBACK OBRIGATÓRIO) ---
+        Se o item não contiver NENHUMA das palavras-chave da lista acima, siga RIGOROSAMENTE esta regra:
+        - Se for uma SAÍDA (Despesa), classifique na conta: 516199
+        - Se for uma ENTRADA (Receita), classifique na conta: 112201
         """
 
         response = client.models.generate_content(
-            model='gemini-2.5-flash',  # <--- VOLTE PARA ESTE MODELO
+            model='gemini-2.5-flash',
             contents=[temp_file, prompt],
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
@@ -95,9 +79,7 @@ def process_statement_with_gemini(pdf_bytes, file_mime, plano_contas_txt):
             )
         )
 
-        # 4. Limpeza
         client.files.delete(name=temp_file.name)
-
         return json.loads(response.text)
 
     except Exception as e:
