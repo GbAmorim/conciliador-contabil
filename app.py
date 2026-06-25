@@ -100,8 +100,8 @@ if uploaded_file and st.button("Processar Extrato"):
             c4.metric("Total Saídas", f"R$ {formatar_brl(result.get('total_saidas', 0))}")
             
             colunas_ordenadas = [
-                "DÉBITO", "CRÉDITO", "DATA", "VALOR", 
-                "HISTÓRICO", "Nº LANÇAMENTO"
+                "DEBITO", "CREDITO", "DATA", "VALOR", 
+                "HISTORICO", "N LANÇAMENTO"
             ]
             
             df_final = df[colunas_ordenadas]
