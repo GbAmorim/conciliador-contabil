@@ -23,9 +23,9 @@ def build_accounting_dataframe(raw_transactions):
             
         csv_rows.append({
             "DATA": tx.get("data"),
-            "DÉBITO": debito,
-            "CRÉDITO": credito,
-            "HISTÓRICO": historico,
+            "DEBITO": debito,
+            "CREDITO": credito,
+            "HISTORICO": historico,
             "VALOR": valor_formatado
         })
     
