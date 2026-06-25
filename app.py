@@ -90,7 +90,7 @@ if uploaded_file and st.button("Processar Extrato"):
             df = df.sort_values('DATA_DT')
             
             # Nova Numeração: Sequencial direta (1, 2, 3...)
-            df['Nº LANÇAMENTO'] = range(1, len(df) + 1)
+            df['N LANÇAMENTO'] = range(1, len(df) + 1)
             
             # Métricas formatadas no padrão brasileiro
             c1, c2, c3, c4 = st.columns(4)
