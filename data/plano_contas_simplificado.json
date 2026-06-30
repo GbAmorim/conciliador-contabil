@@ -1,0 +1,56 @@
+{
+    "contas": [
+        {
+            "termo": "Light, luz",
+            "conta": "513119"
+        },
+        {
+            "termo": "Cedae, água, esgoto",
+            "conta": "513120"
+        },
+        {
+            "termo": "Telefone, claro, vivo, oi, tim",
+            "conta": "513121"
+        },
+        {
+            "termo": "Seguros",
+            "conta": "513123"
+        },
+        {
+            "termo": "GC, contabilidade",
+            "conta": "513124"
+        },
+        {
+            "termo": "IOF",
+            "conta": "515101"
+        },
+        {
+            "termo": "IPTU",
+            "conta": "515102"
+        },
+        {
+            "termo": "DARF",
+            "conta": "211813"
+        },
+        {
+            "termo": "Salário",
+            "conta": "211101"
+        },
+        {
+            "termo": "Empréstimo, Capital de giro",
+            "conta": "211405"
+        },
+        {
+            "termo": "Rend., aplic, apl, rendimento, auto mais",
+            "conta": "111399"
+        },
+        {
+            "termo": "Lis",
+            "conta": "514102"
+        },
+        {
+            "termo": "Tarifa",
+            "conta": "516136"
+        }
+    ]
+}

@@ -110,5 +110,12 @@ if uploaded_file and st.button("Processar Extrato"):
             
             # Salvando o CSV com delimitador correto
             sep = ";" if ";" in csv_delimiter else ","
-            csv = df_final.to_csv(index=False, sep=sep, encoding='utf-8-sig')
-            st.download_button("Baixar Planilha", csv, "conciliacao.csv", "text/csv")
+            
+            # 1. Gera a string do CSV
+            csv_string = df_final.to_csv(index=False, sep=sep)
+            
+            # 2. Força a codificação em bytes com BOM (Para o Excel ler as colunas e acentos)
+            csv_bytes = csv_string.encode('utf-8-sig')
+            
+            # 3. Passa os bytes (e não a string) para o botão
+            st.download_button("Baixar Planilha", csv_bytes, "conciliacao.csv", "text/csv")
